@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+
+      *{
+        border : none;
+      }
+    </style>
+    <meta charset="UTF-8">
+    <title>wikidumps</title>
+  </head>
+  <body style=text-align:center;background-color:#D9EEEF; font: normal 10px Verdana
+  ;font-color : #777777;>
+  <br>
+  <br>
+  <br>
+    <h4>Wikidumps</h4>
+    <form method="POST" action="/index">
+      {{ form.hidden_tag() }}
+      <fieldset>
+        <div>
+          {{ form.search.label }}
+          {{ form.search }}
+        </div>
+        </fieldset>
+        <br>
+        <br>
+        <div>
+          {{ form.submit}}
+        </div>
+    </form>
+    <br>
+<div>
+  {% for para in result %}
+    <p>{{para}}</p>
+    {% endfor %}
+</div>
+  </body>
+</html>

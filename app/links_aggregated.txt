@@ -1,0 +1,5491 @@
+ASCII	ASCII	60	3
+Alphabet	Alphabet	271	1
+American Revolutionary War	American Revolutionary War	9784415	2
+American Civil War	American Civil War	1177728	4
+Agnostic	Agnosticism	122189	2
+Apollo	Apollo	783823390	4
+Alexander the Great	Alexander the Great	309	9
+Ayn Rand	Ayn Rand	783822286	1
+Academy Award	Academy Awards	51	2
+Best Production Design	Academy Award for Best Production Design	9784415	1
+Aristotle	Aristotle	50	8
+Oscar	Academy Awards	51	2
+American Film Institute	American Film Institute	10653874	1
+Arabic	Arabic	332	6
+Aristotelian	Aristotle	50	1
+Pharaonic Egypt	Ancient Egypt	14967932	1
+A	A	46	1
+American National Standards Institute	American National Standards Institute	264	1
+Achilles	Achilles	49	2
+Anatolia	Anatolia	358	7
+Asia	Asia	34696838	3
+Atlantic Ocean	Atlantic Ocean	287	5
+Ancient Egypt	Ancient Egypt	14967932	5
+Apollo 8	Apollo 8	269	2
+Apollo 11	Apollo 11	9784415	1
+Afghan	Afghanistan	783865123	1
+Abjad	Abjad	579	1
+Amphibian	Amphibian	9784415	2
+Algeria	Algeria	56	3
+Afghanistan	Afghanistan	783865123	4
+Azerbaijan	Azerbaijan	302	3
+Ankara	Ankara	20483999	3
+Aegean Sea	Aegean Sea	918492394	4
+war effort	American Revolutionary War	9784415	1
+Civil War	American Civil War	1177728	1
+Einstein	Albert Einstein	299	1
+Angola	Angola	9784415	3
+Abraham Lincoln	Abraham Lincoln	9784415	2
+Alaska	Alaska	783823514	2
+Arthur Schopenhauer	Arthur Schopenhauer	783865097	1
+agnostic	Agnosticism	122189	1
+Allah	Allah	301	1
+Macedonian Empire	Alexander the Great	309	1
+Andy Warhol	Andy Warhol	569	1
+Albania	Albania	9784415	1
+Egypt	Ancient Egypt	14967932	1
+Alismatales	Alismatales	923578186	1
+Asparagales	Asparagales	316	1
+Alp Arslan	Alp Arslan	923964327	1
+island groups	Archipelago	27015025	1
+Alabama	Alabama	783822238	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	851267907	1
+Albert Sidney Johnston	Albert Sidney Johnston	291	1
+Apple Computer	Apple Inc.	461300	1
+Alfred Korzybski	Alfred Korzybski	918607053	1
+Aruba	Aruba	279	1
+ASCII	ASCII	60	3
+Alphabet	Alphabet	271	1
+American Revolutionary War	American Revolutionary War	9784415	2
+American Civil War	American Civil War	1177728	4
+Agnostic	Agnosticism	122189	2
+Apollo	Apollo	783823390	4
+Alexander the Great	Alexander the Great	309	9
+Ayn Rand	Ayn Rand	783822286	1
+Academy Award	Academy Awards	51	2
+Best Production Design	Academy Award for Best Production Design	9784415	1
+Aristotle	Aristotle	50	8
+Oscar	Academy Awards	51	2
+American Film Institute	American Film Institute	10653874	1
+Arabic	Arabic	332	6
+Aristotelian	Aristotle	50	1
+Pharaonic Egypt	Ancient Egypt	14967932	1
+A	A	46	1
+American National Standards Institute	American National Standards Institute	264	1
+Achilles	Achilles	49	2
+Anatolia	Anatolia	358	7
+Asia	Asia	34696838	3
+Atlantic Ocean	Atlantic Ocean	287	5
+Ancient Egypt	Ancient Egypt	14967932	5
+Apollo 8	Apollo 8	269	2
+Apollo 11	Apollo 11	9784415	1
+Afghan	Afghanistan	783865123	1
+Abjad	Abjad	579	1
+Amphibian	Amphibian	9784415	2
+Algeria	Algeria	56	3
+Afghanistan	Afghanistan	783865123	4
+Azerbaijan	Azerbaijan	302	3
+Ankara	Ankara	20483999	3
+Aegean Sea	Aegean Sea	918492394	4
+war effort	American Revolutionary War	9784415	1
+Civil War	American Civil War	1177728	1
+Einstein	Albert Einstein	299	1
+Angola	Angola	9784415	3
+Abraham Lincoln	Abraham Lincoln	9784415	2
+Alaska	Alaska	783823514	2
+Arthur Schopenhauer	Arthur Schopenhauer	783865097	1
+agnostic	Agnosticism	122189	1
+Allah	Allah	301	1
+Macedonian Empire	Alexander the Great	309	1
+Andy Warhol	Andy Warhol	569	1
+Albania	Albania	9784415	1
+Egypt	Ancient Egypt	14967932	1
+Alismatales	Alismatales	923578186	1
+Asparagales	Asparagales	316	1
+Alp Arslan	Alp Arslan	923964327	1
+island groups	Archipelago	27015025	1
+Alabama	Alabama	783822238	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	851267907	1
+Albert Sidney Johnston	Albert Sidney Johnston	291	1
+Apple Computer	Apple Inc.	461300	1
+Alfred Korzybski	Alfred Korzybski	918607053	1
+Aruba	Aruba	279	1
+ASCII	ASCII	60	3
+Alphabet	Alphabet	271	1
+American Revolutionary War	American Revolutionary War	9784415	2
+American Civil War	American Civil War	1177728	4
+Agnostic	Agnosticism	122189	2
+Apollo	Apollo	783823390	4
+Alexander the Great	Alexander the Great	309	9
+Ayn Rand	Ayn Rand	783822286	1
+Academy Award	Academy Awards	51	2
+Best Production Design	Academy Award for Best Production Design	9784415	1
+Aristotle	Aristotle	50	8
+Oscar	Academy Awards	51	2
+American Film Institute	American Film Institute	10653874	1
+Arabic	Arabic	332	6
+Aristotelian	Aristotle	50	1
+Pharaonic Egypt	Ancient Egypt	14967932	1
+A	A	46	1
+American National Standards Institute	American National Standards Institute	264	1
+Achilles	Achilles	49	2
+Anatolia	Anatolia	358	7
+Asia	Asia	34696838	3
+Atlantic Ocean	Atlantic Ocean	287	5
+Ancient Egypt	Ancient Egypt	14967932	5
+Apollo 8	Apollo 8	269	2
+Apollo 11	Apollo 11	9784415	1
+Afghan	Afghanistan	783865123	1
+Abjad	Abjad	579	1
+Amphibian	Amphibian	9784415	2
+Algeria	Algeria	56	3
+Afghanistan	Afghanistan	783865123	4
+Azerbaijan	Azerbaijan	302	3
+Ankara	Ankara	20483999	3
+Aegean Sea	Aegean Sea	918492394	4
+war effort	American Revolutionary War	9784415	1
+Civil War	American Civil War	1177728	1
+Einstein	Albert Einstein	299	1
+Angola	Angola	9784415	3
+Abraham Lincoln	Abraham Lincoln	9784415	2
+Alaska	Alaska	783823514	2
+Arthur Schopenhauer	Arthur Schopenhauer	783865097	1
+agnostic	Agnosticism	122189	1
+Allah	Allah	301	1
+Macedonian Empire	Alexander the Great	309	1
+Andy Warhol	Andy Warhol	569	1
+Albania	Albania	9784415	1
+Egypt	Ancient Egypt	14967932	1
+Alismatales	Alismatales	923578186	1
+Asparagales	Asparagales	316	1
+Alp Arslan	Alp Arslan	923964327	1
+island groups	Archipelago	27015025	1
+Alabama	Alabama	783822238	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	851267907	1
+Albert Sidney Johnston	Albert Sidney Johnston	291	1
+Apple Computer	Apple Inc.	461300	1
+Alfred Korzybski	Alfred Korzybski	918607053	1
+Aruba	Aruba	279	1
+ASCII	ASCII	60	3
+Alphabet	Alphabet	271	1
+American Revolutionary War	American Revolutionary War	9784415	2
+American Civil War	American Civil War	1177728	4
+Agnostic	Agnosticism	122189	2
+Apollo	Apollo	783823390	4
+Alexander the Great	Alexander the Great	309	9
+Ayn Rand	Ayn Rand	783822286	1
+Academy Award	Academy Awards	51	2
+Best Production Design	Academy Award for Best Production Design	9784415	1
+Aristotle	Aristotle	50	8
+Oscar	Academy Awards	51	2
+American Film Institute	American Film Institute	10653874	1
+Arabic	Arabic	332	6
+Aristotelian	Aristotle	50	1
+Pharaonic Egypt	Ancient Egypt	14967932	1
+A	A	46	1
+American National Standards Institute	American National Standards Institute	264	1
+Achilles	Achilles	49	2
+Anatolia	Anatolia	358	7
+Asia	Asia	34696838	3
+Atlantic Ocean	Atlantic Ocean	287	5
+Ancient Egypt	Ancient Egypt	14967932	5
+Apollo 8	Apollo 8	269	2
+Apollo 11	Apollo 11	9784415	1
+Afghan	Afghanistan	783865123	1
+Abjad	Abjad	579	1
+Amphibian	Amphibian	9784415	2
+Algeria	Algeria	56	3
+Afghanistan	Afghanistan	783865123	4
+Azerbaijan	Azerbaijan	302	3
+Ankara	Ankara	20483999	3
+Aegean Sea	Aegean Sea	918492394	4
+war effort	American Revolutionary War	9784415	1
+Civil War	American Civil War	1177728	1
+Einstein	Albert Einstein	299	1
+Angola	Angola	9784415	3
+Abraham Lincoln	Abraham Lincoln	9784415	2
+Alaska	Alaska	783823514	2
+Arthur Schopenhauer	Arthur Schopenhauer	783865097	1
+agnostic	Agnosticism	122189	1
+Allah	Allah	301	1
+Macedonian Empire	Alexander the Great	309	1
+Andy Warhol	Andy Warhol	569	1
+Albania	Albania	9784415	1
+Egypt	Ancient Egypt	14967932	1
+Alismatales	Alismatales	923578186	1
+Asparagales	Asparagales	316	1
+Alp Arslan	Alp Arslan	923964327	1
+island groups	Archipelago	27015025	1
+Alabama	Alabama	783822238	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	851267907	1
+Albert Sidney Johnston	Albert Sidney Johnston	291	1
+Apple Computer	Apple Inc.	461300	1
+Alfred Korzybski	Alfred Korzybski	918607053	1
+Aruba	Aruba	279	1
+ASCII	ASCII	60	3
+Alphabet	Alphabet	271	1
+American Revolutionary War	American Revolutionary War	9784415	2
+American Civil War	American Civil War	1177728	4
+Agnostic	Agnosticism	122189	2
+Apollo	Apollo	783823390	4
+Alexander the Great	Alexander the Great	309	9
+Ayn Rand	Ayn Rand	783822286	1
+Academy Award	Academy Awards	51	2
+Best Production Design	Academy Award for Best Production Design	9784415	1
+Aristotle	Aristotle	50	8
+Oscar	Academy Awards	51	2
+American Film Institute	American Film Institute	10653874	1
+Arabic	Arabic	332	6
+Aristotelian	Aristotle	50	1
+Pharaonic Egypt	Ancient Egypt	14967932	1
+A	A	46	1
+American National Standards Institute	American National Standards Institute	264	1
+Achilles	Achilles	49	2
+Anatolia	Anatolia	358	7
+Asia	Asia	34696838	3
+Atlantic Ocean	Atlantic Ocean	287	5
+Ancient Egypt	Ancient Egypt	14967932	5
+Apollo 8	Apollo 8	269	2
+Apollo 11	Apollo 11	9784415	1
+Afghan	Afghanistan	783865123	1
+Abjad	Abjad	579	1
+Amphibian	Amphibian	9784415	2
+Algeria	Algeria	56	3
+Afghanistan	Afghanistan	783865123	4
+Azerbaijan	Azerbaijan	302	3
+Ankara	Ankara	20483999	3
+Aegean Sea	Aegean Sea	918492394	4
+war effort	American Revolutionary War	9784415	1
+Civil War	American Civil War	1177728	1
+Einstein	Albert Einstein	299	1
+Angola	Angola	9784415	3
+Abraham Lincoln	Abraham Lincoln	9784415	2
+Alaska	Alaska	783823514	2
+Arthur Schopenhauer	Arthur Schopenhauer	783865097	1
+agnostic	Agnosticism	122189	1
+Allah	Allah	301	1
+Macedonian Empire	Alexander the Great	309	1
+Andy Warhol	Andy Warhol	569	1
+Albania	Albania	9784415	1
+Egypt	Ancient Egypt	14967932	1
+Alismatales	Alismatales	923578186	1
+Asparagales	Asparagales	316	1
+Alp Arslan	Alp Arslan	923964327	1
+island groups	Archipelago	27015025	1
+Alabama	Alabama	783822238	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	851267907	1
+Albert Sidney Johnston	Albert Sidney Johnston	291	1
+Apple Computer	Apple Inc.	461300	1
+Alfred Korzybski	Alfred Korzybski	918607053	1
+Aruba	Aruba	279	1
+ASCII	ASCII	60	3
+Alphabet	Alphabet	271	1
+American Revolutionary War	American Revolutionary War	9784415	2
+American Civil War	American Civil War	1177728	4
+Agnostic	Agnosticism	122189	2
+Apollo	Apollo	783823390	4
+Alexander the Great	Alexander the Great	309	9
+Ayn Rand	Ayn Rand	783822286	1
+Academy Award	Academy Awards	51	2
+Best Production Design	Academy Award for Best Production Design	9784415	1
+Aristotle	Aristotle	50	8
+Oscar	Academy Awards	51	2
+American Film Institute	American Film Institute	10653874	1
+Arabic	Arabic	332	6
+Aristotelian	Aristotle	50	1
+Pharaonic Egypt	Ancient Egypt	14967932	1
+A	A	46	1
+American National Standards Institute	American National Standards Institute	264	1
+Achilles	Achilles	49	2
+Anatolia	Anatolia	358	7
+Asia	Asia	34696838	3
+Atlantic Ocean	Atlantic Ocean	287	5
+Ancient Egypt	Ancient Egypt	14967932	5
+Apollo 8	Apollo 8	269	2
+Apollo 11	Apollo 11	9784415	1
+Afghan	Afghanistan	783865123	1
+Abjad	Abjad	579	1
+Amphibian	Amphibian	9784415	2
+Algeria	Algeria	56	3
+Afghanistan	Afghanistan	783865123	4
+Azerbaijan	Azerbaijan	302	3
+Ankara	Ankara	20483999	3
+Aegean Sea	Aegean Sea	918492394	4
+war effort	American Revolutionary War	9784415	1
+Civil War	American Civil War	1177728	1
+Einstein	Albert Einstein	299	1
+Angola	Angola	9784415	3
+Abraham Lincoln	Abraham Lincoln	9784415	2
+Alaska	Alaska	783823514	2
+Arthur Schopenhauer	Arthur Schopenhauer	783865097	1
+agnostic	Agnosticism	122189	1
+Allah	Allah	301	1
+Macedonian Empire	Alexander the Great	309	1
+Andy Warhol	Andy Warhol	569	1
+Albania	Albania	9784415	1
+Egypt	Ancient Egypt	14967932	1
+Alismatales	Alismatales	923578186	1
+Asparagales	Asparagales	316	1
+Alp Arslan	Alp Arslan	923964327	1
+island groups	Archipelago	27015025	1
+Alabama	Alabama	783822238	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	851267907	1
+Albert Sidney Johnston	Albert Sidney Johnston	291	1
+Apple Computer	Apple Inc.	461300	1
+Alfred Korzybski	Alfred Korzybski	918607053	1
+Aruba	Aruba	279	1
+ASCII	ASCII	60	3
+Alphabet	Alphabet	271	1
+American Revolutionary War	American Revolutionary War	9784415	2
+American Civil War	American Civil War	1177728	4
+Agnostic	Agnosticism	122189	2
+Apollo	Apollo	783823390	4
+Alexander the Great	Alexander the Great	309	9
+Ayn Rand	Ayn Rand	783822286	1
+Academy Award	Academy Awards	51	2
+Best Production Design	Academy Award for Best Production Design	9784415	1
+Aristotle	Aristotle	50	8
+Oscar	Academy Awards	51	2
+American Film Institute	American Film Institute	10653874	1
+Arabic	Arabic	332	6
+Aristotelian	Aristotle	50	1
+Pharaonic Egypt	Ancient Egypt	14967932	1
+A	A	46	1
+American National Standards Institute	American National Standards Institute	264	1
+Achilles	Achilles	49	2
+Anatolia	Anatolia	358	7
+Asia	Asia	34696838	3
+Atlantic Ocean	Atlantic Ocean	287	5
+Ancient Egypt	Ancient Egypt	14967932	5
+Apollo 8	Apollo 8	269	2
+Apollo 11	Apollo 11	9784415	1
+Afghan	Afghanistan	783865123	1
+Abjad	Abjad	579	1
+Amphibian	Amphibian	9784415	2
+Algeria	Algeria	56	3
+Afghanistan	Afghanistan	783865123	4
+Azerbaijan	Azerbaijan	302	3
+Ankara	Ankara	20483999	3
+Aegean Sea	Aegean Sea	918492394	4
+war effort	American Revolutionary War	9784415	1
+Civil War	American Civil War	1177728	1
+Einstein	Albert Einstein	299	1
+Angola	Angola	9784415	3
+Abraham Lincoln	Abraham Lincoln	9784415	2
+Alaska	Alaska	783823514	2
+Arthur Schopenhauer	Arthur Schopenhauer	783865097	1
+agnostic	Agnosticism	122189	1
+Allah	Allah	301	1
+Macedonian Empire	Alexander the Great	309	1
+Andy Warhol	Andy Warhol	569	1
+Albania	Albania	9784415	1
+Egypt	Ancient Egypt	14967932	1
+Alismatales	Alismatales	923578186	1
+Asparagales	Asparagales	316	1
+Alp Arslan	Alp Arslan	923964327	1
+island groups	Archipelago	27015025	1
+Alabama	Alabama	783822238	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	851267907	1
+Albert Sidney Johnston	Albert Sidney Johnston	291	1
+Apple Computer	Apple Inc.	461300	1
+Alfred Korzybski	Alfred Korzybski	918607053	1
+Aruba	Aruba	279	1
+Anarcho-capitalism	Anarcho-capitalism	1023	1
+Austrian School	Austrian School	1030	3
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+Α α	Alpha	929	1
+American Revolutionary War	American Revolutionary War	771	5
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	6
+Alexander the Great	Alexander the Great	783	11
+Athena	Athena	1182	5
+Ayn Rand	Ayn Rand	339	3
+Avicenna	Avicenna	1130	2
+Athens	Athens	1216	7
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	14
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	10
+Albert Camus	Albert Camus	983	3
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	5
+Anatolia	Anatolia	854	7
+Aphrodite	Aphrodite	1174	4
+Asia	Asia	689	8
+Ada Lovelace	Ada Lovelace	974	1
+Atlantic Ocean	Atlantic Ocean	698	7
+Ancient Egypt	Ancient Egypt	874	6
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	2
+Aramaic	Aramaic alphabet	960	2
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	5
+Afghanistan	Afghanistan	737	9
+Azerbaijan	Azerbaijan	746	7
+Ankara	Ankara	802	5
+Aegean Sea	Aegean Sea	842	6
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	2
+Aleister Crowley	Aleister Crowley	1177	1
+Anglican	Anglicanism	1214	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	3
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	2
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Ashoka	Ashoka	1239	2
+Andy Warhol	Andy Warhol	864	1
+Aarhus	Aarhus	1038	1
+Albania	Albania	738	2
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Arecales	Arecales	994	2
+Asparagales	Asparagales	786	1
+Asteraceae	Asteraceae	956	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Artificial intelligence	Artificial intelligence	1164	1
+Alan Turing	Alan Turing	1208	4
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Adelaide	Adelaide	1148	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+Antigua and Barbuda	Antigua and Barbuda	951	4
+Anglicanism	Anglicanism	1214	3
+Anguilla	Anguilla	1217	1
+Albert Einstein	Albert Einstein	736	6
+Americium	Americium	900	1
+Amplitude modulation	Amplitude modulation	1140	1
+Royal Antigua and Barbuda Defence Force	Royal Antigua and Barbuda Defence Force	1074	1
+anti-Semitism	Antisemitism	1078	1
+August Derleth	August Derleth	980	1
+Anarchism	Anarchism	12	1
+The Plague	The Plague	986	1
+Hercule Poirot	Hercule Poirot	1000	2
+Miss Marple	Miss Marple	1002	2
+Agatha Christie	Agatha Christie	984	2
+Schopenhauer	Arthur Schopenhauer	700	1
+Anglican Communion	Anglican Communion	909	3
+Amsterdam	Amsterdam	844	1
+Analysis of variance	Analysis of variance	634	1
+Alexander Graham Bell	Alexander Graham Bell	852	1
+Aldous Huxley	Aldous Huxley	628	2
+Apple	Apple Inc.	856	1
+Alain Connes	Alain Connes	340	1
+Apple Inc.	Apple Inc.	856	2
+Alps	Alps	981	1
+anti-Semitic	Antisemitism	1078	1
+Atomic number	Atomic number	673	1
+Atomic physics	Atomic physics	1200	1
+Alan Garner	Alan Garner	1152	1
+War of Independence	American Revolutionary War	771	1
+Asia Minor	Anatolia	854	1
+Anarcho-capitalism	Anarcho-capitalism	1023	1
+Austrian School	Austrian School	1030	3
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+Α α	Alpha	929	1
+American Revolutionary War	American Revolutionary War	771	5
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	6
+Alexander the Great	Alexander the Great	783	11
+Athena	Athena	1182	5
+Ayn Rand	Ayn Rand	339	3
+Avicenna	Avicenna	1130	2
+Athens	Athens	1216	7
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	14
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	10
+Albert Camus	Albert Camus	983	3
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	5
+Anatolia	Anatolia	854	7
+Aphrodite	Aphrodite	1174	4
+Asia	Asia	689	8
+Ada Lovelace	Ada Lovelace	974	1
+Atlantic Ocean	Atlantic Ocean	698	7
+Ancient Egypt	Ancient Egypt	874	6
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	2
+Aramaic	Aramaic alphabet	960	2
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	5
+Afghanistan	Afghanistan	737	9
+Azerbaijan	Azerbaijan	746	7
+Ankara	Ankara	802	5
+Aegean Sea	Aegean Sea	842	6
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	2
+Aleister Crowley	Aleister Crowley	1177	1
+Anglican	Anglicanism	1214	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	3
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	2
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Ashoka	Ashoka	1239	2
+Andy Warhol	Andy Warhol	864	1
+Aarhus	Aarhus	1038	1
+Albania	Albania	738	2
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Arecales	Arecales	994	2
+Asparagales	Asparagales	786	1
+Asteraceae	Asteraceae	956	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Artificial intelligence	Artificial intelligence	1164	1
+Alan Turing	Alan Turing	1208	4
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Adelaide	Adelaide	1148	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+Antigua and Barbuda	Antigua and Barbuda	951	4
+Anglicanism	Anglicanism	1214	3
+Anguilla	Anguilla	1217	1
+Albert Einstein	Albert Einstein	736	6
+Americium	Americium	900	1
+Amplitude modulation	Amplitude modulation	1140	1
+Royal Antigua and Barbuda Defence Force	Royal Antigua and Barbuda Defence Force	1074	1
+anti-Semitism	Antisemitism	1078	1
+August Derleth	August Derleth	980	1
+Anarchism	Anarchism	12	1
+The Plague	The Plague	986	1
+Hercule Poirot	Hercule Poirot	1000	2
+Miss Marple	Miss Marple	1002	2
+Agatha Christie	Agatha Christie	984	2
+Schopenhauer	Arthur Schopenhauer	700	1
+Anglican Communion	Anglican Communion	909	3
+Amsterdam	Amsterdam	844	1
+Analysis of variance	Analysis of variance	634	1
+Alexander Graham Bell	Alexander Graham Bell	852	1
+Aldous Huxley	Aldous Huxley	628	2
+Apple	Apple Inc.	856	1
+Alain Connes	Alain Connes	340	1
+Apple Inc.	Apple Inc.	856	2
+Alps	Alps	981	1
+anti-Semitic	Antisemitism	1078	1
+Atomic number	Atomic number	673	1
+Atomic physics	Atomic physics	1200	1
+Alan Garner	Alan Garner	1152	1
+War of Independence	American Revolutionary War	771	1
+Asia Minor	Anatolia	854	1
+Anarcho-capitalism	Anarcho-capitalism	1023	1
+Austrian School	Austrian School	1030	3
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+Α α	Alpha	929	1
+American Revolutionary War	American Revolutionary War	771	5
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	6
+Alexander the Great	Alexander the Great	783	11
+Athena	Athena	1182	5
+Ayn Rand	Ayn Rand	339	3
+Avicenna	Avicenna	1130	2
+Athens	Athens	1216	7
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	14
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	10
+Albert Camus	Albert Camus	983	3
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	5
+Anatolia	Anatolia	854	7
+Aphrodite	Aphrodite	1174	4
+Asia	Asia	689	8
+Ada Lovelace	Ada Lovelace	974	1
+Atlantic Ocean	Atlantic Ocean	698	7
+Ancient Egypt	Ancient Egypt	874	6
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	2
+Aramaic	Aramaic alphabet	960	2
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	5
+Afghanistan	Afghanistan	737	9
+Azerbaijan	Azerbaijan	746	7
+Ankara	Ankara	802	5
+Aegean Sea	Aegean Sea	842	6
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	2
+Aleister Crowley	Aleister Crowley	1177	1
+Anglican	Anglicanism	1214	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	3
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	2
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Ashoka	Ashoka	1239	2
+Andy Warhol	Andy Warhol	864	1
+Aarhus	Aarhus	1038	1
+Albania	Albania	738	2
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Arecales	Arecales	994	2
+Asparagales	Asparagales	786	1
+Asteraceae	Asteraceae	956	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Artificial intelligence	Artificial intelligence	1164	1
+Alan Turing	Alan Turing	1208	4
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Adelaide	Adelaide	1148	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+Antigua and Barbuda	Antigua and Barbuda	951	4
+Anglicanism	Anglicanism	1214	3
+Anguilla	Anguilla	1217	1
+Albert Einstein	Albert Einstein	736	6
+Americium	Americium	900	1
+Amplitude modulation	Amplitude modulation	1140	1
+Royal Antigua and Barbuda Defence Force	Royal Antigua and Barbuda Defence Force	1074	1
+anti-Semitism	Antisemitism	1078	1
+August Derleth	August Derleth	980	1
+Anarchism	Anarchism	12	1
+The Plague	The Plague	986	1
+Hercule Poirot	Hercule Poirot	1000	2
+Miss Marple	Miss Marple	1002	2
+Agatha Christie	Agatha Christie	984	2
+Schopenhauer	Arthur Schopenhauer	700	1
+Anglican Communion	Anglican Communion	909	3
+Amsterdam	Amsterdam	844	1
+Analysis of variance	Analysis of variance	634	1
+Alexander Graham Bell	Alexander Graham Bell	852	1
+Aldous Huxley	Aldous Huxley	628	2
+Apple	Apple Inc.	856	1
+Alain Connes	Alain Connes	340	1
+Apple Inc.	Apple Inc.	856	2
+Alps	Alps	981	1
+anti-Semitic	Antisemitism	1078	1
+Atomic number	Atomic number	673	1
+Atomic physics	Atomic physics	1200	1
+Alan Garner	Alan Garner	1152	1
+War of Independence	American Revolutionary War	771	1
+Asia Minor	Anatolia	854	1
+Anarcho-capitalism	Anarcho-capitalism	1023	1
+Austrian School	Austrian School	1030	3
+ASCII	ASCII	586	6
+Alphabet	Alphabet	670	1
+Α α	Alpha	929	1
+American Revolutionary War	American Revolutionary War	771	8
+American Civil War	American Civil War	863	11
+Agnostic	Agnosticism	894	2
+Alabama River	Alabama River	1484	1
+Apollo	Apollo	594	11
+Alexander the Great	Alexander the Great	783	16
+Athena	Athena	1182	9
+Aeneas	Aeneas	1540	4
+Agamemnon	Agamemnon	1544	3
+Amazons	Amazons	1695	3
+Ammianus Marcellinus	Ammianus Marcellinus	1767	5
+Andrew Johnson	Andrew Johnson	1624	4
+Ayn Rand	Ayn Rand	339	3
+Avicenna	Avicenna	1130	3
+Athens	Athens	1216	23
+Andronicus of Rhodes	Andronicus of Rhodes	1764	2
+Archimedes	Archimedes	1844	4
+Academy Award	Academy Awards	324	4
+Best Production Design	Academy Award for Best Production Design	316	1
+Alfonso Cuarón	Alfonso Cuarón	1247	2
+Art Deco	Art Deco	1881	3
+Aristotle	Aristotle	308	28
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	14
+Albert Camus	Albert Camus	983	3
+Algiers	Algiers	1644	3
+Apuleius	Apuleius	1789	2
+Ainu	Ainu people	1530	1
+Aquaculture	Aquaculture	1634	1
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+Acupuncture	Acupuncture	1537	1
+Albertus Magnus	Albertus Magnus	1573	3
+Antoine Lavoisier	Antoine Lavoisier	1822	1
+A	A	290	3
+American National Standards Institute	American National Standards Institute	659	1
+ASCII art	ASCII art	1884	1
+Achilles	Achilles	305	10
+Anatolia	Anatolia	854	12
+Aphrodite	Aphrodite	1174	11
+Augustus	Augustus	1273	10
+Ambracia	Ambracia	1371	1
+Apollo	Apollo program	1461	1
+Alexander	Alexander Aetolus	1605	1
+Anaxagoras	Anaxagoras	1737	2
+Actium	Actium	1810	2
+Asia	Asia	689	10
+Ada Lovelace	Ada Lovelace	974	2
+Atlantic Ocean	Atlantic Ocean	698	11
+Ancient Egypt	Ancient Egypt	874	7
+Apollo 8	Apollo 8	663	6
+Anno Domini	Anno Domini	1400	1
+Apollo program	Apollo program	1461	5
+Apollo 13	Apollo 13	1770	4
+Apollo 7	Apollo 7	1773	4
+Apollo 9	Apollo 9	1774	2
+Apollo 11	Apollo 11	662	3
+Afghan	Afghanistan	737	1
+Arizona State University	Arizona State University	1859	3
+Abjad	Abjad	877	2
+Aramaic	Aramaic alphabet	960	2
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	8
+Andes	Andes	1354	4
+Afghanistan	Afghanistan	737	16
+Azerbaijan	Azerbaijan	746	9
+Ankara	Ankara	802	8
+Aegean Sea	Aegean Sea	842	7
+Aloe	Aloe	1650	2
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	3
+Einstein	Albert Einstein	736	3
+Aleister Crowley	Aleister Crowley	1177	2
+Anglican	Anglicanism	1214	3
+Angola	Angola	701	4
+AK-47	AK-47	1348	1
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	2
+agnostic	Agnosticism	894	1
+Allah	Allah	740	3
+Macedonian Empire	Alexander the Great	783	1
+Ashoka	Ashoka	1239	2
+Ahmad Shah Durrani	Ahmad Shah Durrani	1560	1
+Abraham	Abraham	1436	3
+Andy Warhol	Andy Warhol	864	1
+André-Marie Ampère	André-Marie Ampère	1363	2
+Aarhus	Aarhus	1038	1
+Albania	Albania	738	4
+Egypt	Ancient Egypt	874	5
+Aléxandros	Alexander	1601	1
+Amphipolis	Amphipolis	1727	1
+Alismatales	Alismatales	787	1
+Arecales	Arecales	994	2
+Amaryllis	Amaryllis	1680	1
+Asparagales	Asparagales	786	1
+Asteraceae	Asteraceae	956	1
+Arianism	Arianism	1252	4
+Alexios I Komnenos	Alexios I Komnenos	1613	4
+Alaric	Alaric I	1570	1
+Alessandro&nbsp;Algardi	Alessandro Algardi	1642	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alessandro Volta	Alessandro Volta	1923	3
+Akkadian Empire	Akkadian Empire	1566	1
+Artificial intelligence	Artificial intelligence	1164	1
+Alan Turing	Alan Turing	1208	6
+Apple I	Apple I	1344	1
+AOL	AOL	1397	2
+Alan Kay	Alan Kay	1449	1
+Aberdeen	Aberdeen	1627	1
+Alabama	Alabama	303	3
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Andrew Jackson	Andrew Jackson	1623	2
+Akkadian	Akkadian Empire	1566	1
+Adelaide	Adelaide	1148	2
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+ATP	Adenosine triphosphate	1800	2
+Aruba	Aruba	690	2
+Antigua and Barbuda	Antigua and Barbuda	951	4
+Anglicanism	Anglicanism	1214	3
+Anguilla	Anguilla	1217	3
+Albert Einstein	Albert Einstein	736	7
+Americium	Americium	900	1
+Amplitude modulation	Amplitude modulation	1140	1
+Royal Antigua and Barbuda Defence Force	Royal Antigua and Barbuda Defence Force	1074	1
+anti-Semitism	Antisemitism	1078	1
+August Derleth	August Derleth	980	1
+Analytical Engine	Analytical Engine	1271	1
+Alemanni	Alemanni	1486	1
+Anarchism	Anarchism	12	1
+The Plague	The Plague	986	1
+Hercule Poirot	Hercule Poirot	1000	2
+Miss Marple	Miss Marple	1002	2
+Agatha Christie	Agatha Christie	984	2
+Amram	Amram	1728	1
+assaulted anyone	Assault	1466	1
+Agathon	Agathon	1549	1
+Schopenhauer	Arthur Schopenhauer	700	1
+Anglican Communion	Anglican Communion	909	6
+Amsterdam	Amsterdam	844	3
+Al-Qaeda	Al-Qaeda	1921	3
+Analysis of variance	Analysis of variance	634	1
+Albert Spalding	Albert Spalding	1893	1
+Augustin-Louis Cauchy	Augustin-Louis Cauchy	1842	1
+Astronomer Royal	Astronomer Royal	1940	2
+Labor	Australian Labor Party	1495	2
+English	Australian English	1897	1
+Alexander Graham Bell	Alexander Graham Bell	852	2
+Aldous Huxley	Aldous Huxley	628	2
+Apple	Apple Inc.	856	1
+Anaximenes	Anaximenes of Miletus	1748	1
+Amathus	Amathus	1687	1
+Alain Connes	Alain Connes	340	1
+Apple Inc.	Apple Inc.	856	4
+Amalric II	Aimery of Cyprus	1872	1
+Alps	Alps	981	4
+anti-Semitic	Antisemitism	1078	1
+Acropolis	Acropolis	1536	2
+Ajax the Lesser	Ajax the Lesser	1567	2
+Amethyst	Amethyst	1366	1
+Atomic number	Atomic number	673	1
+Atomic physics	Atomic physics	1200	1
+AD	Anno Domini	1400	1
+Alan Garner	Alan Garner	1152	2
+Apollo missions	Apollo program	1461	1
+Alcmene	Alcmene	1579	1
+War of Independence	American Revolutionary War	771	1
+Asia Minor	Anatolia	854	2
+Epirus	Alexander II of Epirus	1588	1
+Amitabh Bachchan	Amitabh Bachchan	1828	1
+Academy Awards	Academy Awards	324	1
+Octavian	Augustus	1273	1
+Adhemar of Le Puy	Adhemar of Le Puy	1875	1
+Aegean	Aegean Sea	842	1
+Alpine	Alps	981	1
+Agrippina the Elder	Agrippina the Elder	1556	3
+Alfred Hitchcock	Alfred Hitchcock	808	1
+Park Güell	Park Güell	1324	1
+Casa Batlló	Casa Batlló	1322	1
+Albertosaurus	Albertosaurus	1367	1
+Anadyr River	Anadyr River	1362	1
+Alberta	Alberta	717	2
+Allosaurus	Allosaurus	1347	1
+Algol	ALGOL	1453	1
+Aristophanes	Aristophanes	1028	3
+Arian Christianity	Arianism	1252	1
+Alaric II	Alaric II	1571	2
+Amazon River	Amazon River	1701	2
+Lincoln	Abraham Lincoln	307	1
+Ammon	Ammon	1722	2
+Alcuin	Alcuin	1408	2
+Aachen	Aachen	1520	2
+Absalon	Absalon	1874	1
+13	Apollo 13	1770	1
+Apollo 9 crewed Earth orbital LM test	Apollo 9	1774	1
+Australian English	Australian English	1897	1
+Animism	Animism	1423	2
+Aga Khan I	Aga Khan I	1545	1
+Athenian	Athens	1216	1
+Agrippina the Younger	Agrippina the Younger	1557	2
+consular rank	Ahenobarbus	1559	1
+Arian	Arianism	1252	1
+Amalaric	Amalaric	1373	2
+Alaric I	Alaric I	1570	1
+Alchemy	Alchemy	573	1
+Agathocles	Agathocles of Syracuse	1840	1
+Antoninus Pius	Antoninus Pius	1256	2
+Aldine	Aldine Press	1581	1
+Alexandrists	Alexandrists	1612	1
+Alexander III "The Great" of Macedon	Alexander the Great	783	1
+Alexander of Pherae	Alexander of Pherae	1587	1
+Alexander II of Epirus	Alexander II of Epirus	1588	2
+Alexander of Aphrodisias	Alexander of Aphrodisias	1599	3
+Alexander Aetolus	Alexander Aetolus	1605	1
+Alexander Jannaeus	Alexander Jannaeus	1606	1
+Aleksandr Solzhenitsyn	Aleksandr Solzhenitsyn	1625	1
+Alexander Fleming	Alexander Fleming	1937	1
+Temple of Apollo	Apollo	594	1
+Alexander	Alexander	1601	2
+Alexios V Doukas ''Mourtzouphlos''	Alexios V Doukas	1617	1
+Alexios III Angelos	Alexios III Angelos	1616	3
+Arkansas	Arkansas	1930	1
+Mother Superior	Abbess	1301	1
+Abalone	Abalone	1300	1
+Attila	Attila	841	1
+postulate	Axiom	928	1
+Analysis	Analysis	1134	1
+Atlantic	Atlantic Ocean	698	1
+Alexander	Alexander the Great	783	2
+Afonso de Albuquerque	Afonso de Albuquerque	1576	1
+Alfonso V of Aragon	Alfonso V of Aragon	1686	3
+Alfonso Jordan	Alfonso Jordan	1879	1
+Ammianus	Ammianus Marcellinus	1767	1
+Alfred Russel Wallace	Alfred Russel Wallace	1494	1
+Amazon warriors	Amazons	1695	1
+Gaius Octavius	Augustus	1273	1
+Ahab	Ahab	1389	1
+Aaron	Aaron	1006	1
+Apocrypha	Apocrypha	1288	1
+Aśoka	Ashoka	1239	1
+Anaximander	Anaximander	1168	1
+Andronikos II Palaiologos	Andronikos II Palaiologos	1761	2
+Andronikos III Palaiologos	Andronikos III Palaiologos	1760	2
+Apollo{{nbsp}}7	Apollo 7	1773	1
+the first crewed lunar landing	Apollo 11	662	1
+assistive devices	Assistive technology	653	1
+Adenosine triphosphate	Adenosine triphosphate	1800	1
+first Apollo Moon landing	Apollo 11	662	1
+Albert Schweitzer	Albert Schweitzer	1029	1
+Apollo Actius	Apollo	594	1
+Rand	Ayn Rand	339	1
+Ahmed I	Ahmed I	1527	1
+Animal Farm	Animal Farm	620	1
+Agathocles I	Agathocles of Syracuse	1840	1
+Fresnel's	Augustin-Jean Fresnel	1141	1
+-->Cauchy, Augustin-Louis<!-- 	Augustin-Louis Cauchy	1842	1
+postulates	Axiom	928	1
+Anthemius of Tralles	Anthemius of Tralles	1873	1
+algal	Algae	633	1
+Amalric of Bena	Amalric of Bena	1656	1
+Albert Speer	Albert Speer	954	1
+ANSI Standard	American National Standards Institute	659	1
+Alexios II Komnenos	Alexios II Komnenos	1615	1
+Alexios III	Alexios III Angelos	1616	1
+Abner Doubleday	Abner Doubleday	1135	1
+America's National Game	America's National Game	1136	1
+Australian Labor Party	Australian Labor Party	1495	1
+Antisemitism	Antisemitism	1078	1
+Argo Navis	Argo Navis	1924	1
+anarchist	Anarchism	12	1
+Agrarianism	Agrarianism	1193	1
+Anarcho-capitalism	Anarcho-capitalism	1023	1
+Austrian School	Austrian School	1030	3
+ASCII	ASCII	586	6
+Alphabet	Alphabet	670	1
+Α α	Alpha	929	1
+American Revolutionary War	American Revolutionary War	771	8
+American Civil War	American Civil War	863	11
+Agnostic	Agnosticism	894	2
+Alabama River	Alabama River	1484	1
+Apollo	Apollo	594	11
+Alexander the Great	Alexander the Great	783	16
+Athena	Athena	1182	9
+Aeneas	Aeneas	1540	4
+Agamemnon	Agamemnon	1544	3
+Amazons	Amazons	1695	3
+Ammianus Marcellinus	Ammianus Marcellinus	1767	5
+Andrew Johnson	Andrew Johnson	1624	4
+Ayn Rand	Ayn Rand	339	3
+Avicenna	Avicenna	1130	3
+Athens	Athens	1216	23
+Andronicus of Rhodes	Andronicus of Rhodes	1764	2
+Archimedes	Archimedes	1844	4
+Academy Award	Academy Awards	324	4
+Best Production Design	Academy Award for Best Production Design	316	1
+Alfonso Cuarón	Alfonso Cuarón	1247	2
+Art Deco	Art Deco	1881	3
+Aristotle	Aristotle	308	28
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	14
+Albert Camus	Albert Camus	983	3
+Algiers	Algiers	1644	3
+Apuleius	Apuleius	1789	2
+Ainu	Ainu people	1530	1
+Aquaculture	Aquaculture	1634	1
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+Acupuncture	Acupuncture	1537	1
+Albertus Magnus	Albertus Magnus	1573	3
+Antoine Lavoisier	Antoine Lavoisier	1822	1
+A	A	290	3
+American National Standards Institute	American National Standards Institute	659	1
+ASCII art	ASCII art	1884	1
+Achilles	Achilles	305	10
+Anatolia	Anatolia	854	12
+Aphrodite	Aphrodite	1174	11
+Augustus	Augustus	1273	10
+Ambracia	Ambracia	1371	1
+Apollo	Apollo program	1461	1
+Alexander	Alexander Aetolus	1605	1
+Anaxagoras	Anaxagoras	1737	2
+Actium	Actium	1810	2
+Asia	Asia	689	10
+Ada Lovelace	Ada Lovelace	974	2
+Atlantic Ocean	Atlantic Ocean	698	11
+Ancient Egypt	Ancient Egypt	874	7
+Apollo 8	Apollo 8	663	6
+Anno Domini	Anno Domini	1400	1
+Apollo program	Apollo program	1461	5
+Apollo 13	Apollo 13	1770	4
+Apollo 7	Apollo 7	1773	4
+Apollo 9	Apollo 9	1774	2
+Apollo 11	Apollo 11	662	3
+Afghan	Afghanistan	737	1
+Arizona State University	Arizona State University	1859	3
+Abjad	Abjad	877	2
+Aramaic	Aramaic alphabet	960	2
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	8
+Andes	Andes	1354	4
+Afghanistan	Afghanistan	737	16
+Azerbaijan	Azerbaijan	746	9
+Ankara	Ankara	802	8
+Aegean Sea	Aegean Sea	842	7
+Aloe	Aloe	1650	2
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	3
+Einstein	Albert Einstein	736	3
+Aleister Crowley	Aleister Crowley	1177	2
+Anglican	Anglicanism	1214	3
+Angola	Angola	701	4
+AK-47	AK-47	1348	1
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	2
+agnostic	Agnosticism	894	1
+Allah	Allah	740	3
+Macedonian Empire	Alexander the Great	783	1
+Ashoka	Ashoka	1239	2
+Ahmad Shah Durrani	Ahmad Shah Durrani	1560	1
+Abraham	Abraham	1436	3
+Andy Warhol	Andy Warhol	864	1
+André-Marie Ampère	André-Marie Ampère	1363	2
+Aarhus	Aarhus	1038	1
+Albania	Albania	738	4
+Egypt	Ancient Egypt	874	5
+Aléxandros	Alexander	1601	1
+Amphipolis	Amphipolis	1727	1
+Alismatales	Alismatales	787	1
+Arecales	Arecales	994	2
+Amaryllis	Amaryllis	1680	1
+Asparagales	Asparagales	786	1
+Asteraceae	Asteraceae	956	1
+Arianism	Arianism	1252	4
+Alexios I Komnenos	Alexios I Komnenos	1613	4
+Alaric	Alaric I	1570	1
+Alessandro&nbsp;Algardi	Alessandro Algardi	1642	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alessandro Volta	Alessandro Volta	1923	3
+Akkadian Empire	Akkadian Empire	1566	1
+Artificial intelligence	Artificial intelligence	1164	1
+Alan Turing	Alan Turing	1208	6
+Apple I	Apple I	1344	1
+AOL	AOL	1397	2
+Alan Kay	Alan Kay	1449	1
+Aberdeen	Aberdeen	1627	1
+Alabama	Alabama	303	3
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Andrew Jackson	Andrew Jackson	1623	2
+Akkadian	Akkadian Empire	1566	1
+Adelaide	Adelaide	1148	2
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+ATP	Adenosine triphosphate	1800	2
+Aruba	Aruba	690	2
+Antigua and Barbuda	Antigua and Barbuda	951	4
+Anglicanism	Anglicanism	1214	3
+Anguilla	Anguilla	1217	3
+Albert Einstein	Albert Einstein	736	7
+Americium	Americium	900	1
+Amplitude modulation	Amplitude modulation	1140	1
+Royal Antigua and Barbuda Defence Force	Royal Antigua and Barbuda Defence Force	1074	1
+anti-Semitism	Antisemitism	1078	1
+August Derleth	August Derleth	980	1
+Analytical Engine	Analytical Engine	1271	1
+Alemanni	Alemanni	1486	1
+Anarchism	Anarchism	12	1
+The Plague	The Plague	986	1
+Hercule Poirot	Hercule Poirot	1000	2
+Miss Marple	Miss Marple	1002	2
+Agatha Christie	Agatha Christie	984	2
+Amram	Amram	1728	1
+assaulted anyone	Assault	1466	1
+Agathon	Agathon	1549	1
+Schopenhauer	Arthur Schopenhauer	700	1
+Anglican Communion	Anglican Communion	909	6
+Amsterdam	Amsterdam	844	3
+Al-Qaeda	Al-Qaeda	1921	3
+Analysis of variance	Analysis of variance	634	1
+Albert Spalding	Albert Spalding	1893	1
+Augustin-Louis Cauchy	Augustin-Louis Cauchy	1842	1
+Astronomer Royal	Astronomer Royal	1940	2
+Labor	Australian Labor Party	1495	2
+English	Australian English	1897	1
+Alexander Graham Bell	Alexander Graham Bell	852	2
+Aldous Huxley	Aldous Huxley	628	2
+Apple	Apple Inc.	856	1
+Anaximenes	Anaximenes of Miletus	1748	1
+Amathus	Amathus	1687	1
+Alain Connes	Alain Connes	340	1
+Apple Inc.	Apple Inc.	856	4
+Amalric II	Aimery of Cyprus	1872	1
+Alps	Alps	981	4
+anti-Semitic	Antisemitism	1078	1
+Acropolis	Acropolis	1536	2
+Ajax the Lesser	Ajax the Lesser	1567	2
+Amethyst	Amethyst	1366	1
+Atomic number	Atomic number	673	1
+Atomic physics	Atomic physics	1200	1
+AD	Anno Domini	1400	1
+Alan Garner	Alan Garner	1152	2
+Apollo missions	Apollo program	1461	1
+Alcmene	Alcmene	1579	1
+War of Independence	American Revolutionary War	771	1
+Asia Minor	Anatolia	854	2
+Epirus	Alexander II of Epirus	1588	1
+Amitabh Bachchan	Amitabh Bachchan	1828	1
+Academy Awards	Academy Awards	324	1
+Octavian	Augustus	1273	1
+Adhemar of Le Puy	Adhemar of Le Puy	1875	1
+Aegean	Aegean Sea	842	1
+Alpine	Alps	981	1
+Agrippina the Elder	Agrippina the Elder	1556	3
+Alfred Hitchcock	Alfred Hitchcock	808	1
+Park Güell	Park Güell	1324	1
+Casa Batlló	Casa Batlló	1322	1
+Albertosaurus	Albertosaurus	1367	1
+Anadyr River	Anadyr River	1362	1
+Alberta	Alberta	717	2
+Allosaurus	Allosaurus	1347	1
+Algol	ALGOL	1453	1
+Aristophanes	Aristophanes	1028	3
+Arian Christianity	Arianism	1252	1
+Alaric II	Alaric II	1571	2
+Amazon River	Amazon River	1701	2
+Lincoln	Abraham Lincoln	307	1
+Ammon	Ammon	1722	2
+Alcuin	Alcuin	1408	2
+Aachen	Aachen	1520	2
+Absalon	Absalon	1874	1
+13	Apollo 13	1770	1
+Apollo 9 crewed Earth orbital LM test	Apollo 9	1774	1
+Australian English	Australian English	1897	1
+Animism	Animism	1423	2
+Aga Khan I	Aga Khan I	1545	1
+Athenian	Athens	1216	1
+Agrippina the Younger	Agrippina the Younger	1557	2
+consular rank	Ahenobarbus	1559	1
+Arian	Arianism	1252	1
+Amalaric	Amalaric	1373	2
+Alaric I	Alaric I	1570	1
+Alchemy	Alchemy	573	1
+Agathocles	Agathocles of Syracuse	1840	1
+Antoninus Pius	Antoninus Pius	1256	2
+Aldine	Aldine Press	1581	1
+Alexandrists	Alexandrists	1612	1
+Alexander III "The Great" of Macedon	Alexander the Great	783	1
+Alexander of Pherae	Alexander of Pherae	1587	1
+Alexander II of Epirus	Alexander II of Epirus	1588	2
+Alexander of Aphrodisias	Alexander of Aphrodisias	1599	3
+Alexander Aetolus	Alexander Aetolus	1605	1
+Alexander Jannaeus	Alexander Jannaeus	1606	1
+Aleksandr Solzhenitsyn	Aleksandr Solzhenitsyn	1625	1
+Alexander Fleming	Alexander Fleming	1937	1
+Temple of Apollo	Apollo	594	1
+Alexander	Alexander	1601	2
+Alexios V Doukas ''Mourtzouphlos''	Alexios V Doukas	1617	1
+Alexios III Angelos	Alexios III Angelos	1616	3
+Arkansas	Arkansas	1930	1
+Mother Superior	Abbess	1301	1
+Abalone	Abalone	1300	1
+Attila	Attila	841	1
+postulate	Axiom	928	1
+Analysis	Analysis	1134	1
+Atlantic	Atlantic Ocean	698	1
+Alexander	Alexander the Great	783	2
+Afonso de Albuquerque	Afonso de Albuquerque	1576	1
+Alfonso V of Aragon	Alfonso V of Aragon	1686	3
+Alfonso Jordan	Alfonso Jordan	1879	1
+Ammianus	Ammianus Marcellinus	1767	1
+Alfred Russel Wallace	Alfred Russel Wallace	1494	1
+Amazon warriors	Amazons	1695	1
+Gaius Octavius	Augustus	1273	1
+Ahab	Ahab	1389	1
+Aaron	Aaron	1006	1
+Apocrypha	Apocrypha	1288	1
+Aśoka	Ashoka	1239	1
+Anaximander	Anaximander	1168	1
+Andronikos II Palaiologos	Andronikos II Palaiologos	1761	2
+Andronikos III Palaiologos	Andronikos III Palaiologos	1760	2
+Apollo{{nbsp}}7	Apollo 7	1773	1
+the first crewed lunar landing	Apollo 11	662	1
+assistive devices	Assistive technology	653	1
+Adenosine triphosphate	Adenosine triphosphate	1800	1
+first Apollo Moon landing	Apollo 11	662	1
+Albert Schweitzer	Albert Schweitzer	1029	1
+Apollo Actius	Apollo	594	1
+Rand	Ayn Rand	339	1
+Ahmed I	Ahmed I	1527	1
+Animal Farm	Animal Farm	620	1
+Agathocles I	Agathocles of Syracuse	1840	1
+Fresnel's	Augustin-Jean Fresnel	1141	1
+-->Cauchy, Augustin-Louis<!-- 	Augustin-Louis Cauchy	1842	1
+postulates	Axiom	928	1
+Anthemius of Tralles	Anthemius of Tralles	1873	1
+algal	Algae	633	1
+Amalric of Bena	Amalric of Bena	1656	1
+Albert Speer	Albert Speer	954	1
+ANSI Standard	American National Standards Institute	659	1
+Alexios II Komnenos	Alexios II Komnenos	1615	1
+Alexios III	Alexios III Angelos	1616	1
+Abner Doubleday	Abner Doubleday	1135	1
+America's National Game	America's National Game	1136	1
+Australian Labor Party	Australian Labor Party	1495	1
+Antisemitism	Antisemitism	1078	1
+Argo Navis	Argo Navis	1924	1
+anarchist	Anarchism	12	1
+Agrarianism	Agrarianism	1193	1
+Anarcho-capitalism	Anarcho-capitalism	1023	1
+Austrian School	Austrian School	1030	3
+ASCII	ASCII	586	6
+Alphabet	Alphabet	670	1
+Α α	Alpha	929	1
+American Revolutionary War	American Revolutionary War	771	8
+American Civil War	American Civil War	863	11
+Agnostic	Agnosticism	894	2
+Alabama River	Alabama River	1484	1
+Apollo	Apollo	594	11
+Alexander the Great	Alexander the Great	783	16
+Athena	Athena	1182	9
+Aeneas	Aeneas	1540	4
+Agamemnon	Agamemnon	1544	3
+Amazons	Amazons	1695	3
+Ammianus Marcellinus	Ammianus Marcellinus	1767	5
+Andrew Johnson	Andrew Johnson	1624	4
+Ayn Rand	Ayn Rand	339	3
+Avicenna	Avicenna	1130	3
+Athens	Athens	1216	23
+Andronicus of Rhodes	Andronicus of Rhodes	1764	2
+Archimedes	Archimedes	1844	4
+Academy Award	Academy Awards	324	4
+Best Production Design	Academy Award for Best Production Design	316	1
+Alfonso Cuarón	Alfonso Cuarón	1247	2
+Art Deco	Art Deco	1881	3
+Aristotle	Aristotle	308	28
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	14
+Albert Camus	Albert Camus	983	3
+Algiers	Algiers	1644	3
+Apuleius	Apuleius	1789	2
+Ainu	Ainu people	1530	1
+Aquaculture	Aquaculture	1634	1
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+Acupuncture	Acupuncture	1537	1
+Albertus Magnus	Albertus Magnus	1573	3
+Antoine Lavoisier	Antoine Lavoisier	1822	1
+A	A	290	3
+American National Standards Institute	American National Standards Institute	659	1
+ASCII art	ASCII art	1884	1
+Achilles	Achilles	305	10
+Anatolia	Anatolia	854	12
+Aphrodite	Aphrodite	1174	11
+Augustus	Augustus	1273	10
+Ambracia	Ambracia	1371	1
+Apollo	Apollo program	1461	1
+Alexander	Alexander Aetolus	1605	1
+Anaxagoras	Anaxagoras	1737	2
+Actium	Actium	1810	2
+Asia	Asia	689	10
+Ada Lovelace	Ada Lovelace	974	2
+Atlantic Ocean	Atlantic Ocean	698	11
+Ancient Egypt	Ancient Egypt	874	7
+Apollo 8	Apollo 8	663	6
+Anno Domini	Anno Domini	1400	1
+Apollo program	Apollo program	1461	5
+Apollo 13	Apollo 13	1770	4
+Apollo 7	Apollo 7	1773	4
+Apollo 9	Apollo 9	1774	2
+Apollo 11	Apollo 11	662	3
+Afghan	Afghanistan	737	1
+Arizona State University	Arizona State University	1859	3
+Abjad	Abjad	877	2
+Aramaic	Aramaic alphabet	960	2
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	8
+Andes	Andes	1354	4
+Afghanistan	Afghanistan	737	16
+Azerbaijan	Azerbaijan	746	9
+Ankara	Ankara	802	8
+Aegean Sea	Aegean Sea	842	7
+Aloe	Aloe	1650	2
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	3
+Einstein	Albert Einstein	736	3
+Aleister Crowley	Aleister Crowley	1177	2
+Anglican	Anglicanism	1214	3
+Angola	Angola	701	4
+AK-47	AK-47	1348	1
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	2
+agnostic	Agnosticism	894	1
+Allah	Allah	740	3
+Macedonian Empire	Alexander the Great	783	1
+Ashoka	Ashoka	1239	2
+Ahmad Shah Durrani	Ahmad Shah Durrani	1560	1
+Abraham	Abraham	1436	3
+Andy Warhol	Andy Warhol	864	1
+André-Marie Ampère	André-Marie Ampère	1363	2
+Aarhus	Aarhus	1038	1
+Albania	Albania	738	4
+Egypt	Ancient Egypt	874	5
+Aléxandros	Alexander	1601	1
+Amphipolis	Amphipolis	1727	1
+Alismatales	Alismatales	787	1
+Arecales	Arecales	994	2
+Amaryllis	Amaryllis	1680	1
+Asparagales	Asparagales	786	1
+Asteraceae	Asteraceae	956	1
+Arianism	Arianism	1252	4
+Alexios I Komnenos	Alexios I Komnenos	1613	4
+Alaric	Alaric I	1570	1
+Alessandro&nbsp;Algardi	Alessandro Algardi	1642	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alessandro Volta	Alessandro Volta	1923	3
+Akkadian Empire	Akkadian Empire	1566	1
+Artificial intelligence	Artificial intelligence	1164	1
+Alan Turing	Alan Turing	1208	6
+Apple I	Apple I	1344	1
+AOL	AOL	1397	2
+Alan Kay	Alan Kay	1449	1
+Aberdeen	Aberdeen	1627	1
+Alabama	Alabama	303	3
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Andrew Jackson	Andrew Jackson	1623	2
+Akkadian	Akkadian Empire	1566	1
+Adelaide	Adelaide	1148	2
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+ATP	Adenosine triphosphate	1800	2
+Aruba	Aruba	690	2
+Antigua and Barbuda	Antigua and Barbuda	951	4
+Anglicanism	Anglicanism	1214	3
+Anguilla	Anguilla	1217	3
+Albert Einstein	Albert Einstein	736	7
+Americium	Americium	900	1
+Amplitude modulation	Amplitude modulation	1140	1
+Royal Antigua and Barbuda Defence Force	Royal Antigua and Barbuda Defence Force	1074	1
+anti-Semitism	Antisemitism	1078	1
+August Derleth	August Derleth	980	1
+Analytical Engine	Analytical Engine	1271	1
+Alemanni	Alemanni	1486	1
+Anarchism	Anarchism	12	1
+The Plague	The Plague	986	1
+Hercule Poirot	Hercule Poirot	1000	2
+Miss Marple	Miss Marple	1002	2
+Agatha Christie	Agatha Christie	984	2
+Amram	Amram	1728	1
+assaulted anyone	Assault	1466	1
+Agathon	Agathon	1549	1
+Schopenhauer	Arthur Schopenhauer	700	1
+Anglican Communion	Anglican Communion	909	6
+Amsterdam	Amsterdam	844	3
+Al-Qaeda	Al-Qaeda	1921	3
+Analysis of variance	Analysis of variance	634	1
+Albert Spalding	Albert Spalding	1893	1
+Augustin-Louis Cauchy	Augustin-Louis Cauchy	1842	1
+Astronomer Royal	Astronomer Royal	1940	2
+Labor	Australian Labor Party	1495	2
+English	Australian English	1897	1
+Alexander Graham Bell	Alexander Graham Bell	852	2
+Aldous Huxley	Aldous Huxley	628	2
+Apple	Apple Inc.	856	1
+Anaximenes	Anaximenes of Miletus	1748	1
+Amathus	Amathus	1687	1
+Alain Connes	Alain Connes	340	1
+Apple Inc.	Apple Inc.	856	4
+Amalric II	Aimery of Cyprus	1872	1
+Alps	Alps	981	4
+anti-Semitic	Antisemitism	1078	1
+Acropolis	Acropolis	1536	2
+Ajax the Lesser	Ajax the Lesser	1567	2
+Amethyst	Amethyst	1366	1
+Atomic number	Atomic number	673	1
+Atomic physics	Atomic physics	1200	1
+AD	Anno Domini	1400	1
+Alan Garner	Alan Garner	1152	2
+Apollo missions	Apollo program	1461	1
+Alcmene	Alcmene	1579	1
+War of Independence	American Revolutionary War	771	1
+Asia Minor	Anatolia	854	2
+Epirus	Alexander II of Epirus	1588	1
+Amitabh Bachchan	Amitabh Bachchan	1828	1
+Academy Awards	Academy Awards	324	1
+Octavian	Augustus	1273	1
+Adhemar of Le Puy	Adhemar of Le Puy	1875	1
+Aegean	Aegean Sea	842	1
+Alpine	Alps	981	1
+Agrippina the Elder	Agrippina the Elder	1556	3
+Alfred Hitchcock	Alfred Hitchcock	808	1
+Park Güell	Park Güell	1324	1
+Casa Batlló	Casa Batlló	1322	1
+Albertosaurus	Albertosaurus	1367	1
+Anadyr River	Anadyr River	1362	1
+Alberta	Alberta	717	2
+Allosaurus	Allosaurus	1347	1
+Algol	ALGOL	1453	1
+Aristophanes	Aristophanes	1028	3
+Arian Christianity	Arianism	1252	1
+Alaric II	Alaric II	1571	2
+Amazon River	Amazon River	1701	2
+Lincoln	Abraham Lincoln	307	1
+Ammon	Ammon	1722	2
+Alcuin	Alcuin	1408	2
+Aachen	Aachen	1520	2
+Absalon	Absalon	1874	1
+13	Apollo 13	1770	1
+Apollo 9 crewed Earth orbital LM test	Apollo 9	1774	1
+Australian English	Australian English	1897	1
+Animism	Animism	1423	2
+Aga Khan I	Aga Khan I	1545	1
+Athenian	Athens	1216	1
+Agrippina the Younger	Agrippina the Younger	1557	2
+consular rank	Ahenobarbus	1559	1
+Arian	Arianism	1252	1
+Amalaric	Amalaric	1373	2
+Alaric I	Alaric I	1570	1
+Alchemy	Alchemy	573	1
+Agathocles	Agathocles of Syracuse	1840	1
+Antoninus Pius	Antoninus Pius	1256	2
+Aldine	Aldine Press	1581	1
+Alexandrists	Alexandrists	1612	1
+Alexander III "The Great" of Macedon	Alexander the Great	783	1
+Alexander of Pherae	Alexander of Pherae	1587	1
+Alexander II of Epirus	Alexander II of Epirus	1588	2
+Alexander of Aphrodisias	Alexander of Aphrodisias	1599	3
+Alexander Aetolus	Alexander Aetolus	1605	1
+Alexander Jannaeus	Alexander Jannaeus	1606	1
+Aleksandr Solzhenitsyn	Aleksandr Solzhenitsyn	1625	1
+Alexander Fleming	Alexander Fleming	1937	1
+Temple of Apollo	Apollo	594	1
+Alexander	Alexander	1601	2
+Alexios V Doukas ''Mourtzouphlos''	Alexios V Doukas	1617	1
+Alexios III Angelos	Alexios III Angelos	1616	3
+Arkansas	Arkansas	1930	1
+Mother Superior	Abbess	1301	1
+Abalone	Abalone	1300	1
+Attila	Attila	841	1
+postulate	Axiom	928	1
+Analysis	Analysis	1134	1
+Atlantic	Atlantic Ocean	698	1
+Alexander	Alexander the Great	783	2
+Afonso de Albuquerque	Afonso de Albuquerque	1576	1
+Alfonso V of Aragon	Alfonso V of Aragon	1686	3
+Alfonso Jordan	Alfonso Jordan	1879	1
+Ammianus	Ammianus Marcellinus	1767	1
+Alfred Russel Wallace	Alfred Russel Wallace	1494	1
+Amazon warriors	Amazons	1695	1
+Gaius Octavius	Augustus	1273	1
+Ahab	Ahab	1389	1
+Aaron	Aaron	1006	1
+Apocrypha	Apocrypha	1288	1
+Aśoka	Ashoka	1239	1
+Anaximander	Anaximander	1168	1
+Andronikos II Palaiologos	Andronikos II Palaiologos	1761	2
+Andronikos III Palaiologos	Andronikos III Palaiologos	1760	2
+Apollo{{nbsp}}7	Apollo 7	1773	1
+the first crewed lunar landing	Apollo 11	662	1
+assistive devices	Assistive technology	653	1
+Adenosine triphosphate	Adenosine triphosphate	1800	1
+first Apollo Moon landing	Apollo 11	662	1
+Albert Schweitzer	Albert Schweitzer	1029	1
+Apollo Actius	Apollo	594	1
+Rand	Ayn Rand	339	1
+Ahmed I	Ahmed I	1527	1
+Animal Farm	Animal Farm	620	1
+Agathocles I	Agathocles of Syracuse	1840	1
+Fresnel's	Augustin-Jean Fresnel	1141	1
+-->Cauchy, Augustin-Louis<!-- 	Augustin-Louis Cauchy	1842	1
+postulates	Axiom	928	1
+Anthemius of Tralles	Anthemius of Tralles	1873	1
+algal	Algae	633	1
+Amalric of Bena	Amalric of Bena	1656	1
+Albert Speer	Albert Speer	954	1
+ANSI Standard	American National Standards Institute	659	1
+Alexios II Komnenos	Alexios II Komnenos	1615	1
+Alexios III	Alexios III Angelos	1616	1
+Abner Doubleday	Abner Doubleday	1135	1
+America's National Game	America's National Game	1136	1
+Australian Labor Party	Australian Labor Party	1495	1
+Antisemitism	Antisemitism	1078	1
+Argo Navis	Argo Navis	1924	1
+anarchist	Anarchism	12	1
+Agrarianism	Agrarianism	1193	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	4
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	4
+Alexander the Great	Alexander the Great	783	9
+Ayn Rand	Ayn Rand	339	1
+Academy Award	Academy Awards	324	2
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	8
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	6
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	1
+American National Standards Institute	American National Standards Institute	659	1
+Achilles	Achilles	305	2
+Anatolia	Anatolia	854	7
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	1
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	4
+Azerbaijan	Azerbaijan	746	3
+Ankara	Ankara	802	3
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	2
+Alaska	Alaska	624	2
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Alabama	Alabama	303	1
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Apple Computer	Apple Inc.	856	1
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+Anarcho-capitalism	Anarcho-capitalism	1023	1
+Austrian School	Austrian School	1030	3
+Aeschylus	Aeschylus	2023	17
+Barcelona	Barcelona	4443	18
+Bolsheviks	Bolsheviks	4927	5
+ASCII	ASCII	586	9
+Alphabet	Alphabet	670	2
+Α α	Alpha	929	1
+American Revolutionary War	American Revolutionary War	771	19
+American Civil War	American Civil War	863	27
+Agnostic	Agnosticism	894	2
+Alabama River	Alabama River	1484	1
+African Americans	African Americans	2154	9
+Baseball	Baseball	3850	5
+Bahá'í Faith	Bahá'í Faith	4251	6
+Apollo	Apollo	594	24
+Alexander the Great	Alexander the Great	783	30
+Athena	Athena	1182	17
+Aeneas	Aeneas	1540	6
+Agamemnon	Agamemnon	1544	6
+Amazons	Amazons	1695	9
+Ammianus Marcellinus	Ammianus Marcellinus	1767	10
+Ares	Ares	2041	9
+Aeacus	Aeacus	2618	7
+Black Sea	Black Sea	3386	32
+Andrew Johnson	Andrew Johnson	1624	5
+Ayn Rand	Ayn Rand	339	4
+Avicenna	Avicenna	1130	7
+Athens	Athens	1216	43
+Andronicus of Rhodes	Andronicus of Rhodes	1764	2
+Archimedes	Archimedes	1844	6
+Ant	Ant	2594	2
+Alexandria	Alexandria	3080	38
+Bertrand Russell	Bertrand Russell	4163	15
+Academy Award	Academy Awards	324	13
+Blade Runner	Blade Runner	3746	4
+Barry Lyndon	Barry Lyndon	4227	1
+Best Production Design	Academy Award for Best Production Design	316	3
+Alfonso Cuarón	Alfonso Cuarón	1247	3
+Art Deco	Art Deco	1881	8
+International Bureau of Weights and Measures	International Bureau of Weights and Measures	4739	2
+Ahimsa	Ahimsa	2784	1
+Aristotle	Aristotle	308	54
+Oscar	Academy Awards	324	7
+Alexander Kerensky	Alexander Kerensky	2543	3
+Bible	Bible	3390	32
+Barry Goldwater	Barry Goldwater	4792	1
+American Film Institute	American Film Institute	869	8
+Arabic	Arabic	803	28
+Albert Camus	Albert Camus	983	3
+Algiers	Algiers	1644	7
+Apuleius	Apuleius	1789	5
+Saint Augustine	Augustine of Hippo	2030	4
+Arabs	Arabs	2185	14
+Berber	Berber languages	4693	5
+Ainu	Ainu people	1530	3
+Aquaculture	Aquaculture	1634	1
+Botany	Botany	4183	2
+Aristotelian	Aristotle	308	2
+Pharaonic Egypt	Ancient Egypt	874	1
+Acupuncture	Acupuncture	1537	1
+Albertus Magnus	Albertus Magnus	1573	4
+Antoine Lavoisier	Antoine Lavoisier	1822	4
+St&nbsp;Augustine	Augustine of Hippo	2030	1
+Astrobiology	Astrobiology	2787	1
+A	A	290	4
+American National Standards Institute	American National Standards Institute	659	4
+ASCII art	ASCII art	1884	1
+Amiga	Amiga	1980	9
+ANSI C	ANSI C	3172	2
+Achilles	Achilles	305	13
+Anatolia	Anatolia	854	30
+Aphrodite	Aphrodite	1174	16
+Augustus	Augustus	1273	20
+Ambracia	Ambracia	1371	1
+Apollo	Apollo program	1461	5
+Alexander	Alexander Aetolus	1605	1
+Anaxagoras	Anaxagoras	1737	2
+Actium	Actium	1810	3
+Assyro	Assyria	2085	1
+Abae	Abae	2476	1
+Aegisthus	Aegisthus	2629	3
+Artemis	Artemis	2905	17
+Atlanta	Atlanta	3138	15
+Cardinals	Arizona Cardinals	2102	1
+Falcons	Atlanta Falcons	2103	1
+American Football League	American Football League	2357	6
+Baltimore Ravens	Baltimore Ravens	4293	4
+Buffalo Bills	Buffalo Bills	4315	7
+Battle of Stalingrad	Battle of Stalingrad	4284	4
+Asia	Asia	689	29
+Southeast Alaska	Southeast Alaska	2936	3
+Interior Alaska	Interior Alaska	2939	1
+Aleut	Aleut	3034	2
+Alaska Native Claims Settlement Act	Alaska Native Claims Settlement Act	3035	1
+British Columbia	British Columbia	3392	12
+Big Dig	Big Dig	4318	1
+British Army	British Army	4887	8
+Ada Lovelace	Ada Lovelace	974	3
+Apicomplexa	Apicomplexa	2221	1
+Agar	Agar	3262	2
+''Alford'' plea	Alford plea	2167	1
+Atlantic Ocean	Atlantic Ocean	698	26
+Bing Crosby	Bing Crosby	4010	2
+Ancient Egypt	Ancient Egypt	874	14
+British Museum	British Museum	4675	23
+Apollo 8	Apollo 8	663	6
+Anno Domini	Anno Domini	1400	2
+Apollo program	Apollo program	1461	11
+Apollo 13	Apollo 13	1770	8
+Apollo 7	Apollo 7	1773	5
+Apollo 9	Apollo 9	1774	5
+Apollo 1	Apollo 1	1965	3
+Apollo 10	Apollo 10	1966	9
+Apollo 14	Apollo 14	1968	7
+Apollo 11	Apollo 11	662	8
+Afghan	Afghanistan	737	2
+Arizona State University	Arizona State University	1859	6
+Abjad	Abjad	877	3
+Aramaic	Aramaic alphabet	960	3
+Arabic	Arabic alphabet	2204	2
+Bulgaria	Bulgaria	3415	28
+Braille	Braille	3933	2
+Bulgarian	Bulgarian language	4149	12
+Amphibian	Amphibian	621	3
+Bill Gates	Bill Gates	3747	5
+Algeria	Algeria	358	17
+Afrikaans	Afrikaans	2162	4
+Andes	Andes	1354	9
+Afghanistan	Afghanistan	737	41
+Azerbaijan	Azerbaijan	746	17
+Ankara	Ankara	802	13
+Aegean Sea	Aegean Sea	842	17
+Assyria	Assyria	2085	20
+Aung San Suu Kyi	Aung San Suu Kyi	2847	2
+Bangladesh	Bangladesh	3454	14
+Brunei	Brunei	3466	7
+Bali	Bali	4147	2
+Baghdad	Baghdad	4492	22
+Black Death	Black Death	4501	8
+Bishkek	Bishkek	4554	2
+Baku	Baku	4566	5
+Aloe	Aloe	1650	3
+Amerigo Vespucci	Amerigo Vespucci	2062	1
+Boston Red Sox	Boston Red Sox	4339	11
+Baltimore Orioles	Baltimore Orioles	4340	8
+war effort	American Revolutionary War	771	1
+Benjamin Franklin	Benjamin Franklin	3986	7
+Civil War	American Civil War	863	6
+Atlantis	Atlantis	2178	4
+Antarctic	Antarctic	2926	4
+Baltic Sea	Baltic Sea	3335	17
+Einstein	Albert Einstein	736	3
+Aleister Crowley	Aleister Crowley	1177	2
+Anglican	Anglicanism	1214	5
+Brazil	Brazil	3383	39
+Basketball	Basketball	3921	6
+Baptists	Baptists	3979	11
+Angola	Angola	701	9
+AK-47	AK-47	1348	4
+Belarus	Belarus	3457	17
+Abraham Lincoln	Abraham Lincoln	307	13
+Austin, Texas	Austin, Texas	1998	6
+Alaska	Alaska	624	14
+Arthur Schopenhauer	Arthur Schopenhauer	700	2
+agnostic	Agnosticism	894	4
+Arthur Eddington	Arthur Eddington	2274	3
+Aarau	Aarau	2466	2
+Brownian motion	Brownian motion	4436	3
+Bose–Einstein condensate	Bose–Einstein condensate	4474	2
+Allah	Allah	740	4
+Macedonian Empire	Alexander the Great	783	1
+Ashoka	Ashoka	1239	4
+Ahmad Shah Durrani	Ahmad Shah Durrani	1560	3
+Massoud	Ahmad Shah Massoud	2176	1
+Afghan	Afghan	2235	2
+Aramaic	Aramaic	2303	11
+Abdul Rashid Dostum	Abdul Rashid Dostum	2376	3
+Turkestan	Afghan Turkestan	2667	1
+Abdur Rahman Khan	Abdur Rahman Khan	2695	1
+Afghan Hound	Afghan Hound	2835	1
+Durrani Empire	Durrani Empire	3070	1
+Aimaq	Aimaq people	3071	1
+Bollywood	Bollywood	4246	5
+Babrak Karmal	Babrak Karmal	4463	4
+Babur	Babur	4551	3
+Rabani	Burhanuddin Rabbani	4611	1
+Albanian	Albanians	2927	3
+Bursa	Bursa	3450	6
+Bosnia and Herzegovina	Bosnia and Herzegovina	3463	9
+Bayezid II	Bayezid II	4242	3
+Body Mass Index	Body mass index	4788	1
+Balkans	Balkans	4829	14
+Abraham	Abraham	1436	10
+Arabic people	Arabs	2185	1
+Bahá'ís	Bahá'í Faith	4251	1
+Asian Development Bank	Asian Development Bank	2512	1
+Baroque	Baroque	3957	13
+Bahá'í	Bahá'í Faith	4251	6
+Backgammon	Backgammon	4329	1
+Andy Warhol	Andy Warhol	864	8
+British regulars	British Army	4887	1
+André-Marie Ampère	André-Marie Ampère	1363	2
+Aarhus	Aarhus	1038	2
+Benzoic acid	Benzoic acid	4106	1
+Albania	Albania	738	13
+Egypt	Ancient Egypt	874	9
+Aléxandros	Alexander	1601	1
+Amphipolis	Amphipolis	1727	2
+Acropolis of Athens	Acropolis of Athens	2076	3
+Byzantion	Byzantium	3719	1
+Book of Daniel	Book of Daniel	4333	8
+Bengal	Bengal	4862	7
+Alismatales	Alismatales	787	1
+Arecales	Arecales	994	2
+Amaryllis	Amaryllis	1680	2
+Asparagales	Asparagales	786	1
+Asteraceae	Asteraceae	956	3
+Arianism	Arianism	1252	11
+Alexios I Komnenos	Alexios I Komnenos	1613	4
+Arcadius	Arcadius	2180	2
+Bayezid I	Bayezid I	4241	2
+Arabic alphabet	Arabic alphabet	2204	6
+Balkan	Balkans	4829	2
+Bolivia	Bolivia	3462	13
+Bavaria	Bavaria	3764	28
+British English	British English	4179	8
+Alaric	Alaric I	1570	2
+Alessandro&nbsp;Algardi	Alessandro Algardi	1642	1
+Burgundians	Burgundians	4257	6
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+Aegean civilization	Aegean civilization	2624	1
+Aegeus	Aegeus	2626	1
+Bosphoros	Bosporus	3705	1
+AFC Ajax	AFC Ajax	2273	4
+Albert Cuyp	Aelbert Cuyp	2758	1
+Berlin	Berlin	3354	42
+August Horch	August Horch	2038	1
+Brussels	Brussels	3708	20
+BMW	BMW	3772	4
+Alessandro Volta	Alessandro Volta	1923	3
+Bell Labs	Bell Labs	3712	10
+Akkadian Empire	Akkadian Empire	1566	2
+Albanians	Albanians	2927	3
+Artificial intelligence	Artificial intelligence	1164	1
+Alan Turing	Alan Turing	1208	10
+Apple I	Apple I	1344	2
+AOL	AOL	1397	3
+Alan Kay	Alan Kay	1449	1
+Apple III	Apple III	2117	3
+Atari	Atari	2234	6
+Apple II	Apple II	2275	10
+AGP	Accelerated Graphics Port	2380	1
+British Virgin Islands	British Virgin Islands	3469	5
+Bluetooth	Bluetooth	3742	3
+Bill Atkinson	Bill Atkinson	4158	1
+unethical business practices	Business ethics	4770	1
+Aberdeen	Aberdeen	1627	4
+American Revolution	American Revolution	1973	12
+Angus	Angus, Scotland	2573	1
+Balmoral Castle	Balmoral Castle	4644	3
+Alabama	Alabama	303	10
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	1
+Andrew Jackson	Andrew Jackson	1623	4
+The Birth of a Nation	The Birth of a Nation	3333	1
+Baptist	Baptists	3979	2
+Battle of Gettysburg	Battle of Gettysburg	4849	4
+Brigitte Bardot	Brigitte Bardot	3845	5
+American Airlines	American Airlines	2386	3
+Akkadian	Akkadian Empire	1566	1
+Battle of Actium	Battle of Actium	5008	3
+Adelaide	Adelaide	1148	7
+Björn Ulvaeus	Björn Ulvaeus	3740	3
+Benny Andersson	Benny Andersson	3741	2
+Apple Computer	Apple Inc.	856	3
+Alfred Korzybski	Alfred Korzybski	784	4
+Alois Alzheimer	Alois Alzheimer	2383	2
+Belgium	Belgium	3343	33
+Blaise Pascal	Blaise Pascal	4068	4
+ATP	Adenosine triphosphate	1800	4
+Berkeley, California	Berkeley, California	4860	5
+Aruba	Aruba	690	5
+Antigua and Barbuda	Antigua and Barbuda	951	5
+Anglicanism	Anglicanism	1214	8
+Anguilla	Anguilla	1217	6
+Archbishop of Canterbury	Archbishop of Canterbury	2345	11
+Bahamas	The Bahamas	3451	1
+Barbados	Barbados	3455	11
+Bermuda	Bermuda	3460	13
+Botswana	Botswana	3464	9
+Book of Common Prayer	Book of Common Prayer	4953	4
+Azores	Azores	3226	7
+Albert Einstein	Albert Einstein	736	17
+Russell	Bertrand Russell	4163	3
+Revelation	Book of Revelation	4379	4
+Brown University	Brown University	4157	4
+Americium	Americium	900	2
+Amplitude modulation	Amplitude modulation	1140	1
+Royal Antigua and Barbuda Defence Force	Royal Antigua and Barbuda Defence Force	1074	1
+British	British English	4179	1
+Brian Lara	Brian Lara	4367	1
+Battle of Agincourt	Battle of Agincourt	4615	3
+anti-Semitism	Antisemitism	1078	1
+Auschwitz concentration camp	Auschwitz concentration camp	2006	3
+Arc de Triomphe	Arc de Triomphe	2482	3
+August Derleth	August Derleth	980	1
+Arabian	Arabs	2185	1
+Analytical Engine	Analytical Engine	1271	2
+Bruce Sterling	Bruce Sterling	3838	2
+Bernoulli number	Bernoulli number	4964	2
+Alemanni	Alemanni	1486	5
+Basel	Basel	4911	9
+Anarchism	Anarchism	12	1
+The Plague	The Plague	986	1
+Hercule Poirot	Hercule Poirot	1000	3
+Miss Marple	Miss Marple	1002	2
+Bletchley Park	Bletchley Park	4037	2
+Revelation of St John	Book of Revelation	4379	1
+Brian Aldiss	Brian Aldiss	4561	1
+The British Museum	British Museum	4675	1
+Business ethics	Business ethics	4770	1
+Agatha Christie	Agatha Christie	984	4
+Amram	Amram	1728	2
+Ark of the Covenant	Ark of the Covenant	2134	5
+Ezra	Book of Ezra	4332	5
+Nehemiah	Book of Nehemiah	4362	4
+Numbers	Book of Numbers	4376	5
+Judges	Book of Judges	4377	5
+Samuel	Books of Samuel	4378	2
+Book of Ezekiel	Book of Ezekiel	4390	4
+Book of Micah	Book of Micah	4452	2
+Barnard College	Barnard College	4237	2
+assaulted anyone	Assault	1466	1
+ethics	Business ethics	4770	1
+Agathon	Agathon	1549	1
+Delian League	Delian League	2037	4
+Aegina	Aegina	2627	5
+Schopenhauer	Arthur Schopenhauer	700	4
+Bordeaux	Bordeaux	4097	10
+otitic abscess	Brain abscess	3840	1
+Adam of Bremen	Adam of Bremen	2552	5
+Burkina Faso	Burkina Faso	3470	10
+Badminton	Badminton	3956	1
+Abatement of debts and legacies	Abatement of debts and legacies	2654	1
+Anglican Communion	Anglican Communion	909	15
+Andalusia	Andalusia	2736	5
+Amsterdam	Amsterdam	844	20
+Al-Qaeda	Al-Qaeda	1921	8
+Bundestag	Bundestag	3768	5
+Bohemia	Bohemia	4345	8
+Jews use blood to make matzos	Blood libel	4941	1
+Bohdan Khmelnytsky	Bohdan Khmelnytsky	4980	1
+Australian rules football	Australian rules football	2403	5
+Analysis of variance	Analysis of variance	634	1
+Booch	Booch method	4603	1
+National Baseball Hall of Fame and Museum	National Baseball Hall of Fame and Museum	4078	2
+Albert Spalding	Albert Spalding	1893	1
+Augustin-Louis Cauchy	Augustin-Louis Cauchy	1842	1
+Astronomer Royal	Astronomer Royal	1940	3
+Augustinian	Augustine of Hippo	2030	1
+Bastille Day	Bastille Day	3936	1
+Arbroath	Arbroath Abbey	2583	1
+Labor	Australian Labor Party	1495	3
+English	Australian English	1897	1
+Alexander Graham Bell	Alexander Graham Bell	852	4
+Battle of the Nile	Battle of the Nile	4606	2
+Alban Berg	Alban Berg	2406	1
+Aldous Huxley	Aldous Huxley	628	3
+Apple	Apple Inc.	856	10
+Atari	Atari 2600	2779	1
+AI-complete	AI-complete	2862	1
+ACM	Association for Computing Machinery	2928	4
+Afrobeat	Afrobeat	3168	1
+Anaximenes	Anaximenes of Miletus	1748	1
+Amathus	Amathus	1687	1
+Athenian Acropolis	Acropolis of Athens	2076	1
+Anaïs Nin	Anaïs Nin	2919	1
+Alain Connes	Alain Connes	340	1
+Apple Inc.	Apple Inc.	856	8
+Amalric II	Aimery of Cyprus	1872	1
+attacks	Battle of Okinawa	4986	1
+Alps	Alps	981	11
+anti-Semitic	Antisemitism	1078	3
+Auguste Rodin	Auguste Rodin	2065	2
+Acropolis	Acropolis	1536	4
+Ajax the Lesser	Ajax the Lesser	1567	2
+Aegean	Aegean civilization	2624	1
+Amethyst	Amethyst	1366	2
+Belfast	Belfast	5046	9
+Atomic number	Atomic number	673	1
+Atomic physics	Atomic physics	1200	1
+Benin	Benin	3459	5
+AD	Anno Domini	1400	4
+Alan Garner	Alan Garner	1152	2
+Association for Computing Machinery	Association for Computing Machinery	2928	3
+Bank of England	Bank of England	4484	4
+Army	British Army	4887	2
+Apollo missions	Apollo program	1461	1
+Alcmene	Alcmene	1579	1
+War of Independence	American Revolutionary War	771	1
+Athanasian Creed	Athanasian Creed	2416	3
+episcopate	Bishop	4092	1
+Baptism	Baptism	4298	2
+Asia Minor	Anatolia	854	3
+Bauhaus	Bauhaus	3832	4
+Bethlehem	Bethlehem	4312	7
+Marathon	Battle of Marathon	4806	2
+southeastern Europe	Balkans	4829	1
+Bessel function	Bessel function	4700	2
+Epirus	Alexander II of Epirus	1588	1
+Amitabh Bachchan	Amitabh Bachchan	1828	3
+Andhra Pradesh	Andhra Pradesh	2377	4
+Academy Awards	Academy Awards	324	10
+Antipope Felix II	Antipope Felix II	2340	1
+Adoptionism	Adoptionism	3036	1
+Alexandria of Egypt	Alexandria	3080	1
+Athanasius of Alexandria	Athanasius of Alexandria	3225	4
+Proverbs	Book of Proverbs	4388	2
+Octavian	Augustus	1273	1
+Adhemar of Le Puy	Adhemar of Le Puy	1875	1
+Battle of the Nile (Battle of Aboukir Bay)	Battle of the Nile	4606	1
+Belgian	Belgium	3343	1
+early Universe matter	Big Bang	4116	1
+Aegean	Aegean Sea	842	4
+Alpine	Alps	981	1
+Agrippina the Elder	Agrippina the Elder	1556	3
+Augustine	Augustine of Hippo	2030	2
+Book of Revelation	Book of Revelation	4379	9
+Australian Capital Territory	Australian Capital Territory	1944	4
+Alfred Hitchcock	Alfred Hitchcock	808	4
+Anthony the Great	Anthony the Great	3246	3
+Park Güell	Park Güell	1324	2
+Casa Batlló	Casa Batlló	1322	2
+Alcoholics Anonymous	Alcoholics Anonymous	2047	2
+Brigham Young	Brigham Young	5048	2
+Apache HTTP Server	Apache HTTP Server	2581	2
+BASIC	BASIC	4015	3
+Albertosaurus	Albertosaurus	1367	1
+Amputation	Amputation	2992	1
+Bakelite	Bakelite	4485	3
+Cynthia	Artemis	2905	1
+Nile	Battle of the Nile	4606	1
+Anadyr River	Anadyr River	1362	1
+Alberta	Alberta	717	14
+Allosaurus	Allosaurus	1347	2
+Algol	ALGOL	1453	1
+Atari ST	Atari ST	2141	5
+Atari 2600	Atari 2600	2779	8
+BIOS	BIOS	4473	6
+Aristophanes	Aristophanes	1028	7
+Anubis	Anubis	3027	2
+Arian Christianity	Arianism	1252	2
+Alaric II	Alaric II	1571	3
+Burgundian	Burgundians	4257	1
+Amazon River	Amazon River	1701	5
+Lincoln	Abraham Lincoln	307	1
+Ammon	Ammon	1722	7
+Astrologically	Astrology	2122	1
+Bayer designation	Bayer designation	4199	4
+Arlo Guthrie	Arlo Guthrie	3273	2
+Adrian Lamo	Adrian Lamo	3003	2
+Alcuin	Alcuin	1408	6
+Astronomical year numbering	Astronomical year numbering	2551	1
+Bede	Bede	4041	10
+Aachen	Aachen	1520	6
+Adoptionist	Adoptionism	3036	1
+Venerable Bede	Bede	4041	1
+archer	Archery	2007	1
+Abimelech	Abimelech	2093	1
+Albrecht Dürer	Albrecht Dürer	2402	8
+Isaiah	Book of Isaiah	4364	8
+Ezekiel	Book of Ezekiel	4390	9
+Abracadabra	Abracadabra	2986	1
+Absalon	Absalon	1874	1
+Amnon	Amnon	3065	2
+Atlas Autocode	Atlas Autocode	2726	1
+BCPL	BCPL	4052	2
+Burroughs Corporation	Burroughs Corporation	4524	1
+Brian Kernighan	Brian Kernighan	4051	2
+13	Apollo 13	1770	1
+Apollo 9 crewed Earth orbital LM test	Apollo 9	1774	1
+Apollo 14 third crewed Moon landing	Apollo 14	1968	1
+Apollo 15 fourth crewed Moon landing	Apollo 15	1969	1
+Apollo 16	Apollo 16	1970	6
+Apollo 17	Apollo 17	1971	6
+Affray	Affray	2665	1
+Black Forest	Black Forest	3385	3
+Borneo	Borneo	4518	3
+Australian English	Australian English	1897	2
+Bob Hawke	Bob Hawke	4059	2
+Ansbach	Ansbach	3236	3
+House of Ascania	House of Ascania	2441	1
+Bear	Bear	4400	5
+Bonn	Bonn	3295	4
+Bill Clinton	Bill Clinton	3356	13
+Aurangzeb	Aurangzeb	2425	3
+Abdul Hamid I	Abdul Hamid I	2692	2
+Animism	Animism	1423	3
+Aga Khan I	Aga Khan I	1545	1
+Aswan	Aswan	2514	2
+Athenian	Athens	1216	2
+Agrippina the Younger	Agrippina the Younger	1557	2
+consular rank	Ahenobarbus	1559	1
+Arabian Sea	Arabian Sea	2747	2
+Amu Darya	Amu Darya	3067	2
+1st Emperor of the Durrani Empire	Durrani Empire	3070	1
+Arab	Arabs	2185	4
+Arian	Arianism	1252	1
+Amalaric	Amalaric	1373	2
+Alaric I	Alaric I	1570	4
+Alchemy	Alchemy	573	1
+Astrology	Astrology	2122	2
+Ann Arbor	Ann Arbor, Michigan	2067	1
+Banda Islands	Banda Islands	5020	3
+Agathocles	Agathocles of Syracuse	1840	1
+Antoninus Pius	Antoninus Pius	1256	4
+Aldine	Aldine Press	1581	1
+Alexandrists	Alexandrists	1612	1
+Alexander III "The Great" of Macedon	Alexander the Great	783	1
+Alexander of Pherae	Alexander of Pherae	1587	1
+Alexander II of Epirus	Alexander II of Epirus	1588	2
+Alexander of Aphrodisias	Alexander of Aphrodisias	1599	4
+Alexander Aetolus	Alexander Aetolus	1605	1
+Alexander Jannaeus	Alexander Jannaeus	1606	1
+Aleksandr Solzhenitsyn	Aleksandr Solzhenitsyn	1625	3
+Alexander Fleming	Alexander Fleming	1937	2
+Alexandra	Alexandra	2529	1
+Alexander of Hales	Alexander of Hales	2881	1
+Temple of Apollo	Apollo	594	1
+Alexander	Alexander	1601	3
+Alexios V Doukas ''Mourtzouphlos''	Alexios V Doukas	1617	1
+Alexios III Angelos	Alexios III Angelos	1616	3
+Arkansas	Arkansas	1930	9
+Aberdare	Aberdare	2701	2
+Aberdeen Bestiary	Aberdeen Bestiary	2853	2
+Mother Superior	Abbess	1301	1
+Felix II	Antipope Felix II	2340	1
+Adoptionists	Adoptionism	3036	1
+Abalone	Abalone	1300	1
+Augustine of Hippo	Augustine of Hippo	2030	8
+Acts of the Apostles	Acts of the Apostles	2084	9
+Bretwalda	Bretwalda	4100	1
+baptised	Baptism	4298	1
+Attila	Attila	841	3
+Agostino Carracci	Agostino Carracci	2526	2
+Berlin Wall	Berlin Wall	3722	5
+postulate	Axiom	928	1
+Analysis	Analysis	1134	1
+Atlantic	Atlantic Ocean	698	8
+Alexander	Alexander the Great	783	4
+Afonso de Albuquerque	Afonso de Albuquerque	1576	2
+Alfonso V of Aragon	Alfonso V of Aragon	1686	3
+Alfonso Jordan	Alfonso Jordan	1879	1
+Ammianus	Ammianus Marcellinus	1767	1
+Atlantians	Atlantis	2178	1
+Asterix	Asterix	2101	2
+Alfred Russel Wallace	Alfred Russel Wallace	1494	3
+Amazon warriors	Amazons	1695	1
+Branco	Branco River	4132	1
+Gaius Octavius	Augustus	1273	1
+Beltane	Beltane	4306	1
+Ahab	Ahab	1389	1
+Book of Joel	Book of Joel	4447	1
+Obadiah	Book of Obadiah	4450	6
+Aaron	Aaron	1006	6
+Apocrypha	Apocrypha	1288	2
+Benjamin	Benjamin	4313	2
+Aśoka	Ashoka	1239	1
+meteorite in 467	Aegospotami	2630	1
+Anaximander	Anaximander	1168	2
+Andronikos II Palaiologos	Andronikos II Palaiologos	1761	2
+Andronikos III Palaiologos	Andronikos III Palaiologos	1760	2
+Apollo{{nbsp}}7	Apollo 7	1773	2
+Apollo 15	Apollo 15	1969	6
+AS-204 mission	Apollo 1	1965	1
+the first crewed lunar landing	Apollo 11	662	1
+AS-204	Apollo 1	1965	1
+assistive devices	Assistive technology	653	1
+bowmen	Archery	2007	1
+Anti-Ballistic Missile Treaty	Anti-Ballistic Missile Treaty	2975	1
+Justice	Associate Justice of the Supreme Court of the United States	3004	1
+Burgess Shale	Burgess Shale	3422	1
+The Bahamas	The Bahamas	3451	4
+Adenosine triphosphate	Adenosine triphosphate	1800	1
+Automated theorem proving	Automated theorem proving	2546	2
+first Apollo Moon landing	Apollo 11	662	1
+Albert Schweitzer	Albert Schweitzer	1029	3
+Apollo Actius	Apollo	594	1
+Rand	Ayn Rand	339	1
+American insurgents	American Revolution	1973	1
+Ahmed I	Ahmed I	1527	1
+Ruth	Babe Ruth	4173	1
+Benjamin Lee Whorf	Benjamin Lee Whorf	3355	1
+Animal Farm	Animal Farm	620	2
+Arthur Miller	Arthur Miller	2310	5
+Agathocles I	Agathocles of Syracuse	1840	1
+Fresnel's	Augustin-Jean Fresnel	1141	1
+-->Cauchy, Augustin-Louis<!-- 	Augustin-Louis Cauchy	1842	1
+postulates	Axiom	928	1
+Anthemius of Tralles	Anthemius of Tralles	1873	1
+algal	Algae	633	1
+Barry Bonds	Barry Bonds	4375	7
+Amalric of Bena	Amalric of Bena	1656	1
+Bernard of Clairvaux	Bernard of Clairvaux	4552	2
+Albert Speer	Albert Speer	954	3
+Buffalo	Buffalo, New York	3985	4
+Bugatti	Bugatti	4497	1
+ANSI Standard	American National Standards Institute	659	1
+Commodore Amiga	Amiga	1980	2
+Amiga 1000	Amiga 1000	3104	4
+Baudot code	Baudot code	4748	1
+Alexios II Komnenos	Alexios II Komnenos	1615	1
+Alexios III	Alexios III Angelos	1616	1
+Abner Doubleday	Abner Doubleday	1135	3
+America's National Game	America's National Game	1136	1
+Atlanta Braves	Atlanta Braves	2140	9
+Australian Labor Party	Australian Labor Party	1495	2
+hijacking	Aircraft hijacking	2075	1
+Abdulaziz al-Omari	Abdulaziz al-Omari	2198	3
+Barbara Olson	Barbara Olson	4195	1
+Boer	Boer	4971	4
+Antisemitism	Antisemitism	1078	1
+American Civil Liberties Union	American Civil Liberties Union	1950	3
+Abu Sayyaf	Abu Sayyaf	2216	2
+Abu Zubaydah	Abu Zubaydah	3117	1
+designations	Bayer designation	4199	1
+Argo Navis	Argo Navis	1924	2
+fall	Autumn	3049	1
+Bauxite	Bauxite	3760	1
+Billy Bob Thornton	Billy Bob Thornton	4471	1
+anarchist	Anarchism	12	2
+Agrarianism	Agrarianism	1193	1
+ACT	Australian Capital Territory	1944	2
+ALP	Australian Labor Party	1495	1
+Australian Army	Australian Army	2795	3
+Hawke government	Bob Hawke	4059	1
+Allen Ginsberg	Allen Ginsberg	1017	3
+AU	Astronomical unit	1210	2
+Absolute magnitude	Absolute magnitude	1963	1
+Alpha Centauri	Alpha Centauri	1979	4
+Apollo{{nbsp}}8	Apollo 8	663	1
+Arabic numerals	Arabic numerals	1786	3
+American eagle	Bald eagle	4401	2
+Argo	Argo Navis	1924	1
+Arcturus	Arcturus	3072	5
+Altair	Altair	3078	2
+α<sup>1</sup>	Bayer designation	4199	1
+AppleTalk	AppleTalk	2115	1
+IDE	Parallel ATA	2778	1
+Amiga 500	Amiga 500	3095	3
+A500+	Amiga 500 Plus	3114	1
+Babylon 5	Babylon 5	4800	2
+Active Server Pages	Active Server Pages	2883	1
+Episcopalians	Anglicanism	1214	1
+AMD	Advanced Micro Devices	2400	2
+Bicycle	Bicycle	3973	1
+Blizzard Entertainment	Blizzard Entertainment	4876	1
+Arbeit macht frei	Arbeit macht frei	2906	1
+Akkadians	Akkadian Empire	1566	2
+Alexander Grothendieck	Alexander Grothendieck	2042	1
+Annals of Mathematics	Annals of Mathematics	2785	4
+Boii	Boii	4327	4
+Anthropology	Anthropology	569	3
+Saint Anthony of the Desert	Anthony the Great	3246	1
+Acropolis	Acropolis of Athens	2076	2
+Battle of Marathon	Battle of Marathon	4806	3
+Audi	Audi	848	4
+André Weil	André Weil	2019	1
+alcoholics	Alcoholism	2965	1
+Burt Lancaster	Burt Lancaster	4537	1
+Aristide Maillol	Aristide Maillol	2063	1
+American Airlines Flight 77	American Airlines Flight 77	1902	2
+Athena Polias	Athena	1182	2
+Bronze Age	Aegean civilization	2624	1
+Amstrad CPC	Amstrad CPC	2197	3
+Books of the Bible	Books of the Bible	3796	2
+Egyptian	Ancient Egypt	874	3
+Daniel	Book of Daniel	4333	8
+Motor neuron disease	Motor neuron disease	876	1
+Abiathar	Abiathar	2740	2
+Arizona Cardinals	Arizona Cardinals	2102	1
+Atlanta, Georgia	Atlanta	3138	2
+St. Bruno of Querfurt	Bruno of Querfurt	5031	1
+Active Directory	Active Directory	2807	1
+Apple Computer, Inc.	Apple Inc.	856	2
+Applesoft BASIC	Applesoft BASIC	2100	3
+B-tree	B-tree	4674	2
+Alexander the Great's	Alexander the Great	783	1
+Ibn al-Haytham	Ibn al-Haytham	1645	2
+Buffalo, New York	Buffalo, New York	3985	3
+artificial	Artificial intelligence	1164	1
+Absalom	Absalom	1438	5
+Saint Athanasius	Athanasius of Alexandria	3225	1
+Joshua	Book of Joshua	4331	2
+Jeremiah	Book of Jeremiah	4363	7
+Revelation to St. John	Book of Revelation	4379	1
+Alfred the Great	Alfred the Great	1640	3
+Apple	Apple II	2275	1
+Al Spalding	Albert Spalding	1893	1
+Chalmers Award	Major League Baseball Most Valuable Player Award	3858	1
+ALCS	American League Championship Series	3861	1
+National Baseball Hall of Fame	National Baseball Hall of Fame and Museum	4078	3
+Babe Ruth	Babe Ruth	4173	11
+Bud Selig	Bud Selig	4582	2
+Jaguar	Atari Jaguar	2782	2
+Borland	Borland	4027	2
+Bildungsroman	Bildungsroman	4880	2
+Atanasoff–Berry computer	Atanasoff–Berry computer	1349	1
+Supreme Court Justice	Associate Justice of the Supreme Court of the United States	3004	2
+American Chinese cuisine	American Chinese cuisine	1558	1
+the Revolution	American Revolution	1973	1
+Belgians	Belgium	3343	1
+Burhanuddin Rabbani	Burhanuddin Rabbani	4611	2
+Bosporus	Bosporus	3705	5
+Bermuda Triangle	Bermuda Triangle	4854	2
+God	Allah	740	1
+Abd al Rahman I	Abd al-Rahman I	2676	1
+Abu al-Faraj al-Isfahani	Abu al-Faraj al-Isfahani	3040	1
+Aldebaran	Aldebaran	3077	4
+Buckminster Fuller	Buckminster Fuller	4031	2
+Augustin Fresnel	Augustin-Jean Fresnel	1141	1
+Advance Australia Fair	Advance Australia Fair	2053	2
+Benjamin Disraeli	Benjamin Disraeli	3875	2
+North Atlantic	Atlantic Ocean	698	1
+A Fire Upon the Deep	A Fire Upon the Deep	2080	1
+asexual	Asexual reproduction	2756	1
+Atari 5200	Atari 5200	2780	3
+Atari 7800	Atari 7800	2781	3
+Atari Lynx	Atari Lynx	2783	1
+Aimaqs	Aimaq people	3071	1
+Annapolis Valley	Annapolis Valley	2245	1
+bass	Bass guitar	3916	2
+Brooklyn Historic Railway Association	Brooklyn Historic Railway Association	4425	1
+Acadia University	Acadia University	2236	1
+Jong AZ	AZ Alkmaar	2289	1
+Einstein's	Albert Einstein	736	1
+Blues	Blues	3352	2
+BBC Radio 1	BBC Radio 1	4348	3
+Arsenal	Arsenal F.C.	2174	3
+Ajax	AFC Ajax	2273	2
+antibodies	Antibody	2362	3
+Aramaic alphabet	Aramaic alphabet	960	1
+biblical	Bible	3390	2
+Book of Proverbs	Book of Proverbs	4388	4
+Actinium	Actinium	899	1
+α-decay	Alpha decay	1267	1
+Berkelium	Berkelium	3758	1
+Zephaniah	Book of Zephaniah	4457	8
+Batman	Batman	4335	5
+St Augustine of Hippo	Augustine of Hippo	2030	1
+American Football Conference	American Football Conference	615	3
+Atlanta Falcons	Atlanta Falcons	2103	2
+Bert Bell	Bert Bell	4892	1
+Admiralty	Admiralty	2988	5
+Ahmad Shah Massoud	Ahmad Shah Massoud	2176	1
+A	Ampere	772	1
+British Airways	British Airways	3970	3
+Austin	Austin, Texas	1998	2
+Athlon	Athlon	3060	1
+Albrecht Altdorfer	Albrecht Altdorfer	2440	2
+plague	Black Death	4501	3
+national anthem	Advance Australia Fair	2053	1
+amps	Ampere	772	1
+The Beach Boys	The Beach Boys	4477	1
+Anglican churches	Anglican Communion	909	1
+Augustinian tradition	Augustine of Hippo	2030	1
+Rodin	Auguste Rodin	2065	1
+Albert the Bear	Albert the Bear	1509	3
+Biochemical	Biochemistry	3954	1
+Aare	Aare	1433	1
+Job	Book of Job	4386	3
+Bandy	Bandy	4444	1
+Anton Chekhov	Anton Chekhov	2447	2
+Book of Isaiah	Book of Isaiah	4364	2
+γ-phosphate	Adenosine triphosphate	1800	1
+Birka	Birka	4608	1
+Aberdeenshire	Aberdeenshire	857	3
+Arbroath Abbey	Arbroath Abbey	2583	1
+Arnold Schwarzenegger	Arnold Schwarzenegger	1806	2
+Bigfoot	Bigfoot	4009	1
+boxer	Boxing	4243	1
+Billy Crystal	Billy Crystal	4649	1
+blind	Blindness	3433	4
+Archipelago	Archipelago	911	1
+Pythian Apollo	Apollo	594	1
+Pontic	Black Sea	3386	1
+Bodhisattva	Bodhisattva	3968	2
+Ajmer - Merwara	Ajmer-Merwara	2646	1
+Assault	Assault	1466	1
+Abdur Rahman	Abdur Rahman Khan	2695	1
+Abd al-Rahman III	Abd al-Rahman III	2678	1
+Abd al-Rahman	Abd al-Rahman I	2676	1
+Balkan peninsula	Balkans	4829	1
+Ahmed III	Ahmed III	1529	1
+British troops	British Army	4887	1
+Baron Aberdare	Baron Aberdare	4671	1
+Astronomical unit	Astronomical unit	1210	1
+Au file format	Au file format	2732	1
+Abercarn	Abercarn	2700	1
+Abertillery	Abertillery	2717	1
+Aston Martin	Aston Martin	2369	2
+Adam Carolla	Adam Carolla	2723	1
+ALGOL	ALGOL	1453	2
+Anders Celsius	Anders Celsius	2722	1
+Bell Telephone Laboratories	Bell Labs	3712	1
+Almond	Almond	1064	2
+1 Samuel	Books of Samuel	4378	1
+conjugation	Bacterial conjugation	4460	1
+Apiaceae	Apiaceae	957	1
+Atari Jaguar	Atari Jaguar	2782	1
+Big Bang	Big Bang	4116	8
+Biochemistry	Biochemistry	3954	1
+Artillery	Artillery	2508	2
+Alder	Alder	1383	1
+Amphisbaena	Amphisbaena	3044	1
+Bird	Bird	3410	2
+Beaver	Beaver	4399	1
+Bee	Bee	4654	1
+Bestiary	Bestiary	4757	1
+Beryl	Beryl	4910	1
+Apple's	Apple Inc.	856	1
+Britney Spears	Britney Spears	3382	1
+Bipolar disorder	Bipolar disorder	4531	2
+St. Augustine	Augustine of Hippo	2030	1
+Beowulf	Beowulf	3833	4
+Berkeley	Berkeley, California	4860	2
+Aegean coast	Aegean Sea	842	1
+Actaeon	Actaeon	1213	1
+Amaranth	Amaranth	1542	1
+AMΦΙΠOΛEΙΤΩΝ	Amphipolis	1727	1
+Aeginian	Aegina	2627	1
+Auschwitz I	Auschwitz concentration camp	2006	1
+Ahuitzotl	Ahuitzotl	2908	1
+Axayacatl	Axayacatl	2907	1
+André Gide	André Gide	1058	1
+Antarctic Treaty System	Antarctic Treaty System	1291	1
+Bulgarian language	Bulgarian language	4149	2
+Algemeen Nijmeegs Studentenblad	Algemeen Nijmeegs Studentenblad	2938	1
+Ann Widdecombe	Ann Widdecombe	2422	1
+British National Party	British National Party	4294	2
+Abu Nidal Organization	Abu Nidal Organization	2360	1
+Arthur Laurents	Arthur Laurents	2999	1
+Bacardi	Bacardi	4921	2
+Beer	Beer	3363	1
+Abraxas	Abraxas	1437	1
+Severus Alexander	Severus Alexander	1600	1
+Buckingham Palace	Buckingham Palace	3969	3
+Bamberg	Bamberg	4896	2
+Anyone Can Whistle	Anyone Can Whistle	2950	1
+Alvin Toffler	Alvin Toffler	930	1
+`Abdu'l-Bahá	`Abdu'l-Bahá	3019	2
+Andrzej Sapkowski	Andrzej Sapkowski	2865	1
+A. E. Housman	A. E. Housman	3198	1
+All Souls' Day	All Souls' Day	1055	2
+King Ahab	Ahab	1389	1
+Advanced Micro Devices	Advanced Micro Devices	2400	1
+Antares	Antares	3076	1
+Boötes	Boötes	4200	2
+brightness	Absolute magnitude	1963	1
+α	Bayer designation	4199	1
+Apparent<br/>Magnitude	Apparent magnitude	1962	1
+α&nbsp;Tauri	Bayer designation	4199	1
+α&nbsp;Aquilae	Bayer designation	4199	1
+Saint Anthony	Anthony the Great	3246	1
+Alexander III	Alexander the Great	783	1
+Atari 520ST	Atari ST	2141	1
+Amiga 500 Plus	Amiga 500 Plus	3114	1
+Arianespace	Arianespace	3112	1
+Ariane 5	Ariane 5	3111	2
+Weil, André	André Weil	2019	1
+Andersonville, Georgia	Andersonville, Georgia	3120	1
+AIM-120 AMRAAM	AIM-120 AMRAAM	3147	2
+AIM-54 Phoenix	AIM-54 Phoenix	3152	3
+Bombardier	Bombardier Inc.	4635	1
+Sparrow	AIM-7 Sparrow	3146	1
+AIM-7 Sparrow	AIM-7 Sparrow	3146	1
+Bayesian probability	Bayesian probability	4890	1
+Bass guitar	Bass guitar	3916	1
+A.D.	Anno Domini	1400	1
+Achiltibuie	Achiltibuie	3204	1
+Bruce Campbell	Bruce Campbell	4670	1
+Ahmed al-Haznawi	Ahmed al-Haznawi	3222	1
+Ahmed al-Nami	Ahmed al-Nami	3221	1
+Bishop	Bishop	4092	2
+Book of Esther	Book of Esther	4382	3
+Agarose	Agarose	2635	1
+Arsenic	Arsenic	897	1
+America the Beautiful	America the Beautiful	651	1
+Blazing Saddles	Blazing Saddles	3837	1
+Bornholm	Bornholm	3776	2
+Baltic languages	Baltic languages	4213	2
+Black or African American	African Americans	2154	1
+Boogie Down Productions	Boogie Down Productions	3817	1
+Broadway	Broadway (Manhattan)	4626	4
+Adolphe Sax	Adolphe Sax	3132	2
+Benelux	Benelux	4170	3
+Alexis Korner	Alexis Korner	2282	1
+Blind Blake	Blind Blake	4366	2
+Blind Willie McTell	Blind Willie McTell	4544	2
+Blind Lemon Jefferson	Blind Lemon Jefferson	4569	1
+Bob Wills	Bob Wills	4833	2
+Bo Diddley	Bo Diddley	5033	1
+Alexanderplatz	Alexanderplatz	2511	1
+Archaeopteryx	Archaeopteryx	2995	2
+Brandenburg	Brandenburg	3765	2
+The Beverly Hillbillies	The Beverly Hillbillies	3376	1
+Alcoholism	Alcoholism	2965	1
+Budweiser	Budweiser	4851	1
+Amazon	Amazon River	1701	1
+Brasília	Brasília	4752	4
+Anglicans	Anglicanism	1214	2
+Abner	Abner	1526	1
+Amos	Book of Amos	1726	5
+Abraham Joshua Heschel	Abraham Joshua Heschel	2851	1
+Book of Joshua	Book of Joshua	4331	2
+Book of Ezra	Book of Ezra	4332	3
+Book of Nehemiah	Book of Nehemiah	4362	2
+Book of Judges	Book of Judges	4377	2
+Books of Samuel	Books of Samuel	4378	3
+Book of Ruth	Book of Ruth	4381	3
+Book of Job	Book of Job	4386	3
+Book of Lamentations	Book of Lamentations	4389	1
+Joel	Book of Joel	4447	5
+Hosea	Book of Hosea	4449	4
+Jonah	Book of Jonah	4451	5
+Micah	Book of Micah	4452	5
+Nahum	Book of Nahum	4453	4
+Haggai	Book of Haggai	4454	3
+Zechariah	Book of Zechariah	4456	4
+Habakkuk	Book of Habakkuk	4458	3
+card game of the same name	Contract bridge	3995	1
+Brick	Brick	4526	1
+loom	Bead weaving	3403	2
+Beadwork	Beadwork	3398	1
+Anus	Anus	2500	1
+Asexual reproduction	Asexual reproduction	2756	1
+President Clinton	Bill Clinton	3356	1
+Brassicaceae	Brassicaceae	3794	2
+Bitola	Bitola	3789	1
+Baha'is	Bahá'í Faith	4251	1
+Blackbeard	Blackbeard	4572	1
+Boxing Day	Boxing Day	4681	2
+Anglican	Anglican Communion	909	2
+Balts	Balts	4540	2
+Amazon Basin	Amazon River	1701	1
+Agnosticism	Agnosticism	894	1
+Armed Forces of Bosnia and Herzegovina	Armed Forces of Bosnia and Herzegovina	3610	1
+bridge	Contract bridge	3995	1
+North Atlantic Ocean	Atlantic Ocean	698	2
+AM	Amplitude modulation	1140	2
+Anti-armor vehicle	Tank destroyer	2286	1
+Politics of Botswana	Politics of Botswana	3615	1
+AMPS	Advanced Mobile Phone System	2815	1
+Politics	Politics of Brazil	3633	1
+Balkan Peninsula	Balkans	4829	1
+Byzantium	Byzantium	3719	2
+Beryllium	Beryllium	3378	2
+AWK	AWK	1456	2
+Association for Computing Machinery (ACM)	Association for Computing Machinery	2928	1
+Bjarne Stroustrup	Bjarne Stroustrup	3713	1
+ABBA	ABBA	880	3
+AES	Advanced Encryption Standard	1260	1
+Bluetooth Special Interest Group	Bluetooth Special Interest Group	3743	1
+Brittonic languages	Brittonic languages	4069	3
+AI	Artificial intelligence	1164	1
+Arcology	Arcology	2193	1
+Blade Runner 3: Replicant Night	Blade Runner 3: Replicant Night	4081	1
+Bubblegum Crisis	Bubblegum Crisis	4742	1
+Andrew Carnegie	Andrew Carnegie	1938	4
+Arnulf of Carinthia	Arnulf of Carinthia	2510	1
+Ascanians	House of Ascania	2441	1
+Bille August	Bille August	3785	1
+ANSI	American National Standards Institute	659	2
+Bliss bibliographic classification	Bliss bibliographic classification	4842	2
+Anatomy	Anatomy	674	1
+Brassicales	Brassicales	3429	1
+Bacillus thuringiensis	Bacillus thuringiensis	4184	2
+Yehoshua	Book of Joshua	4331	1
+Yirmeyahu	Book of Jeremiah	4363	1
+Yeshayahu	Book of Isaiah	4364	1
+Bamidbar	Book of Numbers	4376	1
+Shofetim	Book of Judges	4377	1
+Shemuel	Books of Samuel	4378	1
+Rut (Ruth)	Book of Ruth	4381	1
+Esther	Book of Esther	4382	4
+Iyov (Job)	Book of Job	4386	1
+Mishlei (Proverbs)	Book of Proverbs	4388	1
+Eikhah (Lamentations)	Book of Lamentations	4389	1
+Yekhezqel	Book of Ezekiel	4390	1
+Hit by pitch	Hit by pitch	3806	1
+On-base plus slugging	On-base plus slugging	3810	3
+Games played	Games played	3814	1
+The Bronx	The Bronx	3338	2
+Binary operation	Binary operation	3948	1
+Angles	Angles	2136	2
+black	African Americans	2154	1
+Division Series	American League Division Series	3862	1
+American League Championship Series	American League Championship Series	3861	2
+National League Division Series	National League Division Series	3863	1
+American League Division Series	American League Division Series	3862	1
+Bronx	The Bronx	3338	1
+statistics	Baseball statistics	3797	1
+Most Valuable Player Award	Major League Baseball Most Valuable Player Award	3858	2
+Ballarat	Ballarat	4973	1
+botanist	Botany	4183	2
+Abdülaziz	Abdülaziz	2681	1
+Liberal Party	Liberal Party (UK)	4482	3
+Balmoral	Balmoral Castle	4644	1
+Bioinformatics	Bioinformatics	4214	2
+Americans with Disabilities Act of 1990	Americans with Disabilities Act of 1990	1338	1
+Bassoon	Bassoon	4207	1
+Braveheart	Braveheart	4560	2
+Antibodies	Antibody	2362	1
+biological polymer	Biopolymer	3974	1
+β-sheet	Beta sheet	4906	1
+dance	Baroque dance	4763	1
+Ajanta Caves	Ajanta Caves	2642	1
+American Sign Language	American Sign Language	1201	1
+Young	Brigham Young	5048	1
+AFC	American Football Conference	615	1
+Revolutionary War	American Revolutionary War	771	1
+Ani DiFranco	Ani DiFranco	2126	1
+Articles of Confederation	Articles of Confederation	691	1
+Adam Smith	Adam Smith	1814	3
+Volta's	Alessandro Volta	1923	1
+A. Grothendieck	Alexander Grothendieck	2042	1
+Banach algebra	Banach algebra	4665	1
+Boston Herald	Boston Herald	4171	1
+Bela Lugosi	Bela Lugosi	5034	2
+Blackwood convention	Blackwood convention	4967	1
+BASE jumping	BASE jumping	4430	1
+BT	BT Group	4642	1
+Battle of Blenheim	Battle of Blenheim	4049	1
+Leader of the Labor Party	Australian Labor Party	1495	1
+Australian Democrats	Australian Democrats	1943	1
+Asgard	Asgard	1460	1
+Ægir	Ægir	1802	1
+MVP	Major League Baseball Most Valuable Player Award	3858	2
+2001	2001 World Series	3864	1
+Alessandro Allori	Alessandro Allori	1647	1
+Bertrand Andrieu	Bertrand Andrieu	4093	1
+Bayonne	Bayonne	4741	1
+Japanese animation	Anime	800	1
+Bubble Bobble	Bubble Bobble	4965	1
+Acid	Acid	656	1
+particle–antiparticle pairs	Antimatter	1317	1
+chemistry of life	Biochemistry	3954	1
+cycle	Bicycle	3973	1
+Bodmin Moor	Bodmin Moor	4859	3
+Bodmin	Bodmin	4858	2
+A. J. Ayer	A. J. Ayer	2018	1
+Andrei Sakharov	Andrei Sakharov	2786	1
+Berry paradox	Berry paradox	5036	1
+Area	Area	1209	1
+Adventist	Adventism	2343	1
+Baseball Hall of Fame	National Baseball Hall of Fame and Museum	4078	1
+Aircraft hijacking	Aircraft hijacking	2075	1
+Bioinformatic	Bioinformatics	4214	1
+Bunsen burner	Bunsen burner	4924	1
+Italian Alps	Alps	981	1
+Anita Hill	Anita Hill	2314	1
+Ardipithecus	Ardipithecus	1144	1
+Oscars	Academy Awards	324	1
+Bocce	Bocce	4300	1
+invasion of Okinawa	Battle of Okinawa	4986	1
+the Orioles	Baltimore Orioles	4340	1
+anti-semitism	Antisemitism	1078	1
+National Alliance	National Alliance (Italy)	3237	1
+2001 general election	2001 United Kingdom general election	3975	1
+Book of Mormon	Book of Mormon	3978	3
+Baptist churches and denominations	Baptists	3979	1
+Baltic	Baltic Sea	3335	2
+Blue Öyster Cult	Blue Öyster Cult	4579	1
+AVL tree	AVL tree	2118	1
+Aedui	Aedui	2622	1
+α	Alpha	929	1
+Academy Award for Best Art Direction	Academy Award for Best Production Design	316	1
+Batman Returns	Batman Returns	4728	2
+Batman Forever	Batman Forever	4730	2
+Year One	Batman: Year One	4731	1
+1903 World Series	1903 World Series	3865	1
+AL Most Valuable Player Award	Major League Baseball Most Valuable Player Award	3858	1
+pennants	American League Championship Series	3861	1
+<span style="color:#fff;">ALDS</span>	American League Division Series	3862	1
+Hall of Fame	National Baseball Hall of Fame and Museum	4078	1
+Ammonites	Ammon	1722	1
+Lamentations	Book of Lamentations	4389	4
+The Ashes	The Ashes	1132	1
+Ruth	Book of Ruth	4381	2
+Abijah	Abijah	2086	1
+Abaddon	Abaddon	2474	1
+Armageddon	Armageddon	3058	1
+Athanasius	Athanasius of Alexandria	3225	1
+1–2 Samuel	Books of Samuel	4378	1
+British Rail	British Rail	4385	1
+Rail transport in Great Britain	Rail transport in Great Britain	4384	1
+Book of Jeremiah	Book of Jeremiah	4363	1
+Andean region	Andes	1354	1
+Arctic fox	Arctic fox	2208	1
+condensation	Bose–Einstein condensate	4474	1
+Biathlon World Championships	Biathlon World Championships	5039	1
+Cobble Hill Tunnel	Cobble Hill Tunnel	2244	1
+angular	Angular momentum	2839	1
+anarchists	Anarchism	12	1
+Casa Milà	Casa Milà	1325	1
+Acts	Acts of the Apostles	2084	1
+Andrea Alciato	Andrea Alciato	1960	1
+Neo-Assyrian	Assyria	2085	1
+Book of Haggai	Book of Haggai	4454	1
+Book of Habakkuk	Book of Habakkuk	4458	1
+Cooper pairs	BCS theory	4403	1
+Bodhidharma	Bodhidharma	4285	1
+astrologers	Astrology	2122	1
+Bentley	Bentley	5052	1
+Ambiorix	Ambiorix	1698	1
+Antipsychotic	Antipsychotic	2870	1
+behaves	Behavior	4805	1
+Bipolar I disorder	Bipolar I disorder	4918	1
+Amazing Grace	Amazing Grace	1395	1
+Bolshevik	Bolsheviks	4927	1
+Baghdād	Baghdad	4492	1
+Belorussian	Belarus	3457	1
+Bahamian	The Bahamas	3451	1
+Ramilies	Battle of Ramillies	4050	1
+Black Sabbath	Black Sabbath	4314	2
+Braves	Atlanta Braves	2140	1
+2001 World Series	2001 World Series	3864	1
+Boston	Boston Red Sox	4339	1
+Andre Agassi	Andre Agassi	595	1
+Saint Ansgar	Ansgar	2544	1
+Azincourt	Azincourt	953	1
+Battle of Poitiers	Battle of Poitiers	4503	1
+Battery Park City	Battery Park City	4580	1
+Bob Costas	Bob Costas	4893	1
+Beatrix Potter	Beatrix Potter	4481	1
+Accounting	Accounting	2593	1
+Banach space	Banach space	3989	1
+Ben Bova	Ben Bova	4982	1
+Army of Darkness	Army of Darkness	3217	1
+Liberal	Liberal Party (UK)	4482	2
+BC	Anno Domini	1400	1
+allegorical	Allegory	1837	1
+Batman: Year One	Batman: Year One	4731	1
+thuringiensis	Bacillus thuringiensis	4184	1
+seat of government	Politics of Brazil	3633	1
+Applied ethics	Applied ethics	988	1
+Adventist message	Adventism	2343	1
+America Online	AOL	1397	1
+Bill Mumy	Bill Mumy	4904	1
+Liberals	Liberal Party (UK)	4482	1
+Anoa	Anoa	2947	1
+Bison	Bison	4583	1
+Prayer Book	Book of Common Prayer	4953	1
+Bolventor	Bolventor	4861	1
+Andaman	Andaman Islands	1750	1
+ADB	Asian Development Bank	2512	1
+A Wizard of Earthsea	A Wizard of Earthsea	2890	1
+Smith	Adam Smith	1814	1
+Pascal	Blaise Pascal	4068	1
+Akira Kurosawa	Akira Kurosawa	872	1
+Rank in abeyance	Abeyance	2720	1
+Bob Jones University	Bob Jones University	4717	1
+Pennsylvania Blue Laws	Blue law	3359	1
+Albert Alcibiades, Margrave of Brandenburg-Kulmbach	Albert Alcibiades, Margrave of Brandenburg-Kulmbach	1508	1
+Ajaccio	Ajaccio	2640	1
+Egyptians	Ancient Egypt	874	2
+anthroposophical	Anthroposophy	2493	1
+Basel Convention	Basel Convention	4012	1
+The plague came to Europe	Black Death	4501	1
+Basic Role-Playing	Basic Role-Playing	4592	1
+The Beano	The Beano	4653	1
+Bombay Sapphire	Bombay Sapphire	4832	1
+carrier	Aircraft carrier	2219	1
+Body mass index	Body mass index	4788	1
+Puzzle Bobble	Puzzle Bobble	4098	1
+Brewing	Brewing	4410	1
+carrier-based	Aircraft carrier	2219	1
+Peleliu	Battle of Peleliu	4283	1
+Gaius Julius Caesar Octavianus	Augustus	1273	1
+Brisbane Lions	Brisbane Lions	5026	2
+Brisbane Broncos	Brisbane Broncos	5025	1
+Saint Adalbert	Adalbert of Prague	2108	1
+Buddy Holly	Buddy Holly	4408	1
+Auschwitz	Auschwitz concentration camp	2006	1
+Bram Stoker	Bram Stoker	3992	1
+Bride of the Monster	Bride of the Monster	5035	1
+Biathlon	Biathlon	4405	1
+anisotropic	Anisotropy	1264	1
+Brian De Palma	Brian De Palma	4216	1
+BMW AG	BMW	3772	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
+ASCII	ASCII	586	3
+Alphabet	Alphabet	670	1
+American Revolutionary War	American Revolutionary War	771	2
+American Civil War	American Civil War	863	7
+Agnostic	Agnosticism	894	2
+Apollo	Apollo	594	10
+Alexander the Great	Alexander the Great	783	17
+Ayn Rand	Ayn Rand	339	1
+Alexander	Alexander the Great	783	2
+Academy Award	Academy Awards	324	3
+Best Production Design	Academy Award for Best Production Design	316	1
+Aristotle	Aristotle	308	13
+Oscar	Academy Awards	324	2
+American Film Institute	American Film Institute	869	1
+Arabic	Arabic	803	12
+Aristotelian	Aristotle	308	1
+Pharaonic Egypt	Ancient Egypt	874	1
+A	A	290	2
+American National Standards Institute	American National Standards Institute	659	5
+Achilles	Achilles	305	3
+Anatolia	Anatolia	854	16
+Asia	Asia	689	3
+Atlantic Ocean	Atlantic Ocean	698	5
+Ancient Egypt	Ancient Egypt	874	5
+Apollo 8	Apollo 8	663	2
+Apollo 11	Apollo 11	662	2
+Afghan	Afghanistan	737	1
+Abjad	Abjad	877	1
+Amphibian	Amphibian	621	2
+Algeria	Algeria	358	3
+Afghanistan	Afghanistan	737	8
+Azerbaijan	Azerbaijan	746	4
+Ankara	Ankara	802	4
+Aegean Sea	Aegean Sea	842	4
+war effort	American Revolutionary War	771	1
+Civil War	American Civil War	863	1
+Einstein	Albert Einstein	736	1
+Albert Einstein	Albert Einstein	736	1
+Angola	Angola	701	3
+Abraham Lincoln	Abraham Lincoln	307	5
+Alaska	Alaska	624	3
+Arthur Schopenhauer	Arthur Schopenhauer	700	1
+agnostic	Agnosticism	894	1
+Allah	Allah	740	1
+Macedonian Empire	Alexander the Great	783	1
+Andy Warhol	Andy Warhol	864	1
+Albania	Albania	738	1
+Egypt	Ancient Egypt	874	1
+Alismatales	Alismatales	787	1
+Asparagales	Asparagales	786	1
+Asia Minor	Anatolia	854	1
+Alp Arslan	Alp Arslan	868	1
+island groups	Archipelago	911	1
+the Archipelago	Archipelago	911	1
+Alabama	Alabama	303	2
+Lincoln	Abraham Lincoln	307	2
+Articles of Confederation and Perpetual Union	Articles of Confederation	691	1
+Albert Sidney Johnston	Albert Sidney Johnston	711	2
+Academy Awards	Academy Awards	324	1
+Apple Computer	Apple Inc.	856	2
+Alfred Korzybski	Alfred Korzybski	784	1
+Aruba	Aruba	690	1
