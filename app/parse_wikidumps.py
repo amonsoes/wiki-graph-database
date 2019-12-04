@@ -3,24 +3,26 @@ import py2neo
 import os
 import pickle
 
-from app import app
+#from app import app
 from py2neo import Graph
 from py2neo.data import Node, Relationship
 from collections import defaultdict
 from DumpObject import DumpObject
-from .SearchEngine import DocCollection, SearchEngine
+from SearchEngine import DocCollection, SearchEngine
+from scipy.sparse import lil_matrix
+
 
 
 # ========== build option macros ============
 
 BUILD_DATABASE = False
-RUN_DUMP_EXTRACTION = False
+RUN_DUMP_EXTRACTION = True
 
 
 # ========== macros for xml-file specific vars ==========
 # TODO: make file-invariant
 
-DUMP_FILE = "./enwiki-latest-pages-articles-multistream1.xml-p10p30302"
+DUMP_DIR = "./files"
 
 TITLE_TAG = "{http://www.mediawiki.org/xml/export-0.10/}title"
 TEXT_TAG = "{http://www.mediawiki.org/xml/export-0.10/}text"
@@ -42,9 +44,6 @@ if BUILD_DATABASE:
 # ======= process link counts and search results ======
 
 
-link_pair_cntr = defaultdict(int)
-
-
 def process_search_result(result):
     dct = import_aggregated_relations()
     unranked_list = []
@@ -60,11 +59,40 @@ def process_search_result(result):
 
 # ======== load xml =========
 
-
-def all_xml_trees(path,ls):
-    """load and parse all xml files TODO: deal with xml files without the suffix -> mime type test?
+def fast_iter(root):
+    """ TODO
     """
-    return [et.parse(file) for file in files for _,_,files in os.walk(path) if file.endswith(".xml")]
+    pass
+
+def process_file(file):
+    print(" START EXTRACTION FOR FILE " ,file)
+    root = et.parse("./files/"+file).getroot()
+    print("ROOT PARSED...")
+    objs = make_dump_object(zip_attributes(root, TITLE_TAG, TEXT_TAG, PAGE_TAG)[:30]) # slice to reduce testing time # list
+    print("BUILDING OBJS FINISHED...")
+    print(DumpObject.mat)
+    del root
+    collection = DocCollection.from_dumpobj(objs)
+    print("COLLECTION BUILT...")
+    collection.to_file()
+    del collection
+    if BUILD_DATABASE:
+        nodes = make_node(objs)
+        make_all_relations(nodes)
+    else:
+        make_all_relations(objs)
+    del objs
+
+
+
+def xml_to_collections(path):
+    """load file to database extension of the search engine
+    """
+    for _,_,files in os.walk(path):
+        for file in files:
+            process_file(file)
+    
+
 
 def single_xml_tree(path):
     return et.parse(path)
@@ -76,9 +104,12 @@ def single_xml_tree(path):
 def zip_attributes(root, title, text, id):
     """ get attributes of an undefined list of tags
     """
+    print("ENTERED ROOT ITERATION...")
     titles = [x.text for x in root.iter(title)]
     texts = [x.text for x in root.iter(text)]
     ids = [x.find(ID_TAG).text for x in root.iter(id)]
+    DumpObject.mat = lil_matrix(len(titles),len(titles))
+    print("ROOT ITER FINISHED")
     return [i for i in zip(titles,texts,ids)]
 
 
@@ -117,37 +148,38 @@ def import_aggregated_relations(path="./links_aggregated.txt"):
 def make_dump_object(ls):
     """ turn an 2dim list of attributes into a list of dumpObjects
     """
-    return [DumpObject.make_instance(i) for i in ls]
+    return list(filter(lambda x: x != None, [DumpObject.make_instance(i) for i in ls if i[0].count(":") == 0]))
 
-def remove_redirects(objects):
-    """ if dump obj only redirects to a page, remove that obj and increase the link count of it's target by 1
-    """
-    filterlist = []
-    for obj in objects:
-        if obj.description == "REDIRECT":
-            if obj.links:
-                target = obj.links[0][0]
-                for subobj in objects:
-                    if subobj.name == target:
-                        subobj.link_count += 1
-            filterlist.append(obj)
-    return filter(lambda x: x not in filterlist, objects)
 
-def to_file(list_of_objects, path="./dumpObjects"):
+# TODO: TEST IF YOU ACTUALLY NEED TO EXPORT THE OBJS
+
+counter = 0
+def to_file(list_of_objects, path="./bin/objs/dumpObjects"+str(counter)):
+    global counter
     with open(path, "wb") as p:
         pickle.dump(list_of_objects,p)
+    counter += 1
     return "Done"
 
-def from_file(path="./dumpObjects"):
-    with open(path, "rb") as p:
+def from_file(file):
+    with open(file, "rb") as p:
         list_of_objects = pickle.load(p)
     return list_of_objects
+
+def from_dir(path="./bin/objs"):
+    objs = []
+    for _,_,files in os.walk(path):
+        for file in files:
+            objs.extend(from_file(file))
+    return objs
+
 
 
 # ======== turn to nodes, make relations =======
 
 
 def make_all_relations(nodes):
+    print("START BUILDING RELATIONS")
     for n in nodes:
         for x in nodes:
             make_relation(n, x)
@@ -191,31 +223,20 @@ else:
 
 if RUN_DUMP_EXTRACTION:
 
-    tree = single_xml_tree(DUMP_FILE)
-    tree_root = tree.getroot()
-    matrix = zip_attributes(tree_root,TITLE_TAG, TEXT_TAG, PAGE_TAG)
-    objs = list(remove_redirects(make_dump_object(matrix))) # slice matrix to reduce testing time
-    to_file(objs)
-    collection = DocCollection.from_dumpobj(objs)
-    collection.to_file()
-    se = SearchEngine(collection)
+    link_pair_cntr = defaultdict(int)
+    xml_to_collections(DUMP_DIR)
+    output_aggregated_relations(link_pair_cntr)
+
 
 else:
 
-    objs = from_file()
-    se = SearchEngine.from_file()
+    link_pair_cntr = import_aggregated_relations()
 
 
 if BUILD_DATABASE:
 
     nodes = make_node(objs)
     make_all_relations(nodes)
-
-else:
-
-    make_all_relations(objs)
-
-output_aggregated_relations(link_pair_cntr)
 
 
 

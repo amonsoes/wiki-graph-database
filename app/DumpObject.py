@@ -1,5 +1,7 @@
 import re
 import nltk
+import numpy as np
+from scipy.sparse import lil_matrix
 
 # for link extraction and content filtering
 link_regex = re.compile(r"\[\[(.+?\|?.*?)\]\]")
@@ -21,6 +23,9 @@ def get_description(name,content):
 
 class DumpObject:
 
+    counter = 0
+    counter_obj = {}
+
     def __init__(self, name, instance_id, description, links, category=None):
         self.name = name
         self.id = instance_id
@@ -28,11 +33,23 @@ class DumpObject:
         self.links = links
         self.link_count = 0
 
+        DumpObject.counter_obj[name] = DumpObject.counter
+        DumpObject.counter += 1
+
+        for link in links:
+            ("FOR: ",name," ",link)
+            DumpObject.counter_obj[link] = DumpObject.counter
+            DumpObject.counter += 1
+            DumpObject.mat[DumpObject.counter_obj[name], DumpObject.counter_obj[link]] += 1
+
 
     @classmethod
-    def make_instance(cls,input):
+    def make_instance(cls, input):
         """cleans up the links for better further processing and then creates an instance"""
         links = [(i[:i.find("|")], i[i.find("|")+1:]) if "|" in i else (i, i) for i in re.findall(link_regex, input[1])]
         description = get_description(input[0], input[1]) if len(links) > 1 else "REDIRECT"
+        if description == "REDIRECT":
+            return None
         instance_id = input[2]
+
         return cls(input[0], instance_id, description, links)
