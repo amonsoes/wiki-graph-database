@@ -5,11 +5,14 @@ import os
 
 from collections import defaultdict
 
+
 def dot (dictA, dictB):
-    return sum([dictA.get(tok) * dictB.get(tok,0) for tok in dictA])
+    return sum([dictA.get(tok) * dictB.get(tok, 0) for tok in dictA])
+
 
 def normalized_tokens(text):
     return [tok.lower() for tok in nltk.word_tokenize(text)]
+
 
 def open_collection(path):
     with open(path, "rb") as p:
@@ -39,7 +42,7 @@ class DocCollection:
                 for tok in normalized_tokens(obj.description):
                     term_df[tok] += 1
                     term_id[tok].add(obj)
-        return cls(term_df,term_id,obj_doc)
+        return cls(term_df, term_id, obj_doc)
 
     def docs_with_all_tokens(self, tokens):
         obj_for_each_token = [self.term_id[tok] for tok in tokens]
@@ -58,7 +61,7 @@ class DocCollection:
         valB = math.sqrt(dot(weightedB, weightedB))
         return dotAB / (valA *valB) if valA *valB != 0 else 0
     
-    def extend(self,dumpobjs):
+    def extend(self, dumpobjs):
         for obj in dumpobjs:
             self.obj_doc[obj] = nltk.FreqDist(normalized_tokens(obj.description))
             for tok in normalized_tokens(obj.description):
@@ -85,11 +88,18 @@ class SearchEngine:
         all_doc_sims = []
         for _,_,files in os.walk("./bin/collections"):
             for file in files:
+                print("searching file {}".format(file))
                 self.doc_collection = open_collection("./bin/collections/"+file)
                 docs = self.doc_collection.docs_with_all_tokens(q_tokens.keys())
-                doc_sims = [(name, self.doc_collection.cosine(q_tokens,doc)) for name, doc in docs]
+                doc_sims = [(name, self.doc_collection.cosine(q_tokens, doc)) for name, doc in docs]
                 all_doc_sims.extend(doc_sims)
                 self.doc_collection = None
         return sorted(all_doc_sims, key=lambda x: -x[1])[:n]
+    
+    def disambiguate(self, query, dic, n=5):
+        lst = sorted([(x[1], y) for x, y in dic.items() if x[0].lower() == query.lower()], key=lambda x: x[1], reverse=True)[:n]
+        return ["PAGE: {}, LINKS: {}".format(x, y) for x, y in lst]
+
+
 
 

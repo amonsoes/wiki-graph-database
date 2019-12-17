@@ -1,7 +1,7 @@
 import re
 import nltk
-import numpy as np
-from scipy.sparse import lil_matrix
+
+from collections import defaultdict
 
 # for link extraction and content filtering
 link_regex = re.compile(r"\[\[(.+?\|?.*?)\]\]")
@@ -15,16 +15,17 @@ def get_description(name,content):
     step_1 = re.sub(filter_regex1, "", des_start[des_start.find(name):])
     inserts = [i[:i.find("|")] if "|" in i else i for i in re.findall(link_regex, step_1)]
     try:
-        step_2  = re.sub(link_regex, "%s", step_1) % tuple(inserts)
+        step_2 = re.sub(link_regex, "%s", step_1) % tuple(inserts)
     except:
         step_2 = step_1
-    step_3 = re.sub(r"\'{3}","",step_2)
+    step_3 = re.sub(r"\'{3}", "", step_2)
     return step_3 if len(step_3) > 2 else "REDIRECT"
+
 
 class DumpObject:
 
-    counter = 0
-    counter_obj = {}
+    id_dict = {}
+    link_dict = defaultdict(int)
 
     def __init__(self, name, instance_id, description, links, category=None):
         self.name = name
@@ -33,15 +34,9 @@ class DumpObject:
         self.links = links
         self.link_count = 0
 
-        DumpObject.counter_obj[name] = DumpObject.counter
-        DumpObject.counter += 1
-
+        DumpObject.id_dict[name] = instance_id
         for link in links:
-            ("FOR: ",name," ",link)
-            DumpObject.counter_obj[link] = DumpObject.counter
-            DumpObject.counter += 1
-            DumpObject.mat[DumpObject.counter_obj[name], DumpObject.counter_obj[link]] += 1
-
+            DumpObject.link_dict[(link[1], link[0])] += 1
 
     @classmethod
     def make_instance(cls, input):
@@ -51,5 +46,4 @@ class DumpObject:
         if description == "REDIRECT":
             return None
         instance_id = input[2]
-
         return cls(input[0], instance_id, description, links)

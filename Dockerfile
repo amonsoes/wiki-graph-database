@@ -7,7 +7,7 @@ RUN pip3 install -r requirements.txt
 
 
 WORKDIR /code
-ENV FLASK_APP ./parse_wikidumps.py
+ENV FLASK_APP ./routes.py
 ENV FLASK_RUN_HOST 0.0.0.0
 COPY . .
 
